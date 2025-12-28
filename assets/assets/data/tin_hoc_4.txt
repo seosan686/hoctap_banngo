@@ -1,0 +1,1291 @@
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) HOÀNG THỊ MAI (Chủ biên) PHAN ANH – NGUYỄN THU HIỀN NGUYỄN BÁ TUẤN – HÀ ĐẶNG CAO TÙNG
+# TIN HỌC 4
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+SÁCH GIÁO KHOA ĐƯỢC THẨM ĐỊNH BỞI HỘI ĐỒNG QUỐC GIA THẨM ĐỊNH SÁCH GIÁO KHOA LỚP 4
+(theo Quyết định số 1908/QĐ-BGDĐT ngày 11 tháng 7 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo)
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) HOÀNG THỊ MAI (Chủ biên)
+##### PHAN ANH – NGUYỄN THU HIỀN NGUYỄN BÁ TUẤN – HÀ ĐẶNG CAO TÙNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+# TIN HỌC 4
+(Bản in thử)
+
+*Tên sách giáo khoa để dành tặng các em học sinh lớp sau.*
+*Minh An Khoa*
+#### HƯỚNG DẪN SỬ DỤNG SÁCH
+Sau bài này em sẽ: Giúp em biết sẽ đạt được gì sau bài học.
+Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+Nội dung bài học
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, em chủ động hơn trong quá trình nhận thức.
+Kiến thức mới: Cung cấp nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+Hộp kiến thức: Tóm tắt kiến thức mới một cách cô đọng và ngắn gọn, giúp em dễ ghi nhớ.
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+CỦNG CỐ: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+VẬN DỤNG: Gồm những câu hỏi, bài tập yêu cầu em dựa vào kiến thức, kĩ năng đã học để giải quyết tình huống thực tiễn.
+Ba bạn An, Minh, Khoa tiếp tục đồng hành và giúp em tiếp thu bài dễ hơn.
+##### KHỞI ĐỘNG
+### LỜI NÓI ĐẦU
+*Các em học sinh yêu quý:*
+*Sách giáo khoa Tin học 4 tiếp nối các bài học của năm học trước để cùng em khám phá những điều kì thú khi sử dụng máy tính.*
+*Cuốn sách này hướng dẫn em cách tìm kiếm thông tin trên Internet, giúp em biết chỉ được sử dụng phần mềm có bản quyền.*
+*Em cũng được hướng dẫn để sử dụng một số phần mềm máy tính phổ biến. Một số phần mềm được giới thiệu trong các bài thực hành giúp em thực hiện tốt nhiệm vụ học tập của mình.*
+*Ở lớp 4, lần đầu tiên các em sẽ được làm quen với ngôn ngữ lập trình trực quan, sử dụng được ngôn ngữ lập trình để tạo ra chương trình máy tính vô cùng thú vị.*
+*Mỗi bài học của cuốn sách được viết thật dễ hiểu. Những ví dụ, bài tập hay tình huống đều được trình bày sinh động, hấp dẫn và gần gũi, giúp em nuôi dưỡng niềm vui khi học tập môn Tin học.*
+*Chúc các em học tập chăm chỉ và thành công!*
+CÁC TÁC GIẢ
+### MỤC LỤC
+Trang
+Chủ đề 1. Máy tính và em 5
+Bài 1. Phần cứng và phần mềm máy tính 5
+Bài 2. Gõ bàn phím đúng cách 10
+Chủ đề 2. Mạng máy tính và Internet 14
+Bài 3. Thông tin trên trang web 14
+Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin 18
+Bài 4. Tìm kiếm thông tin trên Internet 18
+Bài 5. Thao tác với tệp và thư mục 22
+Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số 27
+Bài 6. Sử dụng phần mềm khi được phép 27
+Chủ đề 5. Ứng dụng tin học 30
+Bài 7. Tạo bài trình chiếu 30
+Bài 8. Định dạng văn bản trên trang chiếu 34
+Bài 9. Hiệu ứng chuyển trang 39
+Bài 10. Phần mềm soạn thảo văn bản 43
+Bài 11. Chỉnh sửa văn bản 47
+Bài 12A. Thực hành đa phương tiện 52
+Bài 12B. Phần mềm luyện tập gõ bàn phím 55
+Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính 59
+Bài 13. Chơi với máy tính 59
+Bài 14. Khám phá môi trường lập trình trực quan 63
+Bài 15. Tạo chương trình máy tính để diễn tả ý tưởng 68
+Bài 16. Chương trình của em 72
+Một số thuật ngữ dùng trong sách 75
+
+Sau bài này em sẽ:
+Q Kể được tên một số thiết bị phần cứng và phần mềm đã biết.
+Q Nêu được sơ lược về vai trò của phần cứng, phần mềm và mối quan hệ phụ thuộc lẫn nhau giữa chúng.
+Q Nêu được ví dụ cụ thể về một số thao tác không đúng sẽ gây ra lỗi cho phần cứng và phần mềm trong quá trình sử dụng máy tính.
+# BÀI 1
+### CHỦ ĐỀ 1. MÁY TÍNH VÀ EM
+##### KHỞI ĐỘNG
+Minh mượn điện thoại của mẹ để dịch một bài hát từ tiếng Anh sang tiếng Việt. Nhưng trên điện thoại của mẹ không có từ điển như trên điện thoại của bố. Tại sao hai chiếc điện thoại trông giống nhau mà khi sử dụng lại khác nhau nhỉ? Em hãy cùng tìm hiểu với bạn Minh nhé.
+#### 1. KHÁM PHÁ VỀ PHẦN CỨNG VÀ PHẦN MỀM
+#### HOẠT ĐỘNG 1 Phần cứng hay phần mềm?
+Em hãy quan sát những hình ảnh sau và chia chúng thành hai nhóm. Tại sao em chia nhóm như vậy?
+Các thiết bị như chuột, bàn phím, màn hình, ổ đĩa, máy in, loa,... là những ví dụ về phần cứng. Đó là những bộ phận của máy tính mà em có thể nhận ra qua hình dạng của chúng.
+Những ứng dụng như trò chơi hay phần mềm trình chiếu,... là những ví dụ về phần mềm. Em không thể nhìn thấy phần mềm vì chúng không có hình dạng, mà chỉ thấy kết quả hoạt động của chúng thông qua phần cứng.
+Màn hình, ống kính, loa,... của chiếc điện thoại thông minh là phần cứng, còn từ điển, trò chơi, đồng hồ,... hiển thị trên màn hình dưới dạng biểu tượng là những phần mềm.
+Có thể bổ sung hoặc xoá bớt phần mềm trên điện thoại thông minh hay máy tính.
+Trên điện thoại của bố Minh có phần mềm từ điển nhưng trên điện thoại của mẹ Minh không có.
+Máy tính gồm phần cứng và phần mềm.
+1. Phát biểu nào sau đây là sai?
+A. Trò chơi trên máy tính là phần mềm.
+B. Thân máy của máy tính là phần cứng.
+C. **Chương trình luyện tập gõ bàn phím là phần cứng.**
+D. Ứng dụng xem video trên máy tính là phần mềm.
+2. Hãy kể tên hai phần mềm mà em đã sử dụng.
+[Hình ảnh: **Các thành phần của máy tính được chia thành hai nhóm: Phần cứng và Phần mềm.** Phần cứng bao gồm: Bàn phím (hình ảnh bàn phím), Chuột (hình ảnh chuột), Màn hình (hình ảnh màn hình), Thân máy (hình ảnh thân máy). Phần mềm bao gồm: Trò chơi (hình ảnh biểu tượng trò chơi), Phần mềm trình chiếu (hình ảnh biểu tượng phần mềm trình chiếu). Bên dưới có hình ảnh: Ống kính của điện thoại là phần cứng. Ứng dụng chụp ảnh trên điện thoại là phần mềm.]
+Ống kính của điện thoại là phần cứng. Ứng dụng chụp ảnh trên điện thoại là phần mềm. Nếu không có ống kính, điện thoại sẽ không nhận ra hình ảnh. Nếu không có ứng dụng chụp ảnh, ống kính sẽ không được điều khiển để thu nhận hình ảnh đó.
+Điện thoại hay máy tính không hoạt động được nếu không có phần mềm. Phần mềm được lưu trữ trong phần cứng để điều khiển phần cứng hoạt động.
+#### 2. MỐI LIÊN HỆ GIỮA PHẦN CỨNG VÀ PHẦN MỀM
+#### HOẠT ĐỘNG 2 Ống kính điện thoại và phần mềm chụp ảnh
+Em hãy quan sát Hình 1 và trả lời các câu hỏi sau
+1. Ghép mỗi mục ở cột A với một mục ở cột B cho phù hợp.
+A B
+1) Ống kính điện thoại D) Phần mềm
+2) Ứng dụng chụp ảnh E) Phần cứng
+2. Nếu thiếu ống kính hoặc ứng dụng chụp ảnh thì chiếc điện thoại có dùng để chụp ảnh được không? Tại sao?
+*Phần mềm cần được lưu trữ trong phần cứng để điều khiển phần cứng hoạt động.*
+*Máy tính cần phải có cả phần cứng và phần mềm để làm việc.*
+Phát biểu nào sau đây là đúng?
+A. Phần cứng có thể làm việc độc lập, không cần đến phần mềm.
+B. Phần mềm có thể tự làm mọi việc, không cần đến phần cứng.
+C. **Cả phần cứng và phần mềm đều cần thiết để máy tính hoạt động.**
+[Hình ảnh 1: **Chụp ảnh bằng điện thoại thông minh.** Màn hình điện thoại hiển thị giờ (16:10), các biểu tượng ứng dụng (CH Play, Zalo (22 thông báo), Youtube, Bộ sưu tập, Music, Máy ảnh). Số 1 chỉ vào biểu tượng ứng dụng Máy ảnh. Dưới cùng có ô Tìm kiếm.]
+#### 3. BẢO VỆ PHẦN CỨNG VÀ PHẦN MỀM
+#### HOẠT ĐỘNG 3 An toàn cho máy tính
+[Hình ảnh 2: **Hành động gây mất an toàn cho máy tính.** a) Minh vừa dùng máy tính vừa uống nước (Hình ảnh Minh ngồi trước máy tính, tay cầm ly nước, ly nước đặt gần bàn phím). b) An tắt máy tính bằng cách nhấn và giữ nút công tắc trên thân máy (Hình ảnh An đang nhấn và giữ nút nguồn trên thân máy tính).]
+1. Chuyện gì sẽ xảy ra với máy tính của Minh và máy tính của An?
+2. Em hãy nhắc lại những điều đã học ở lớp 3 về việc nên và không nên làm khi sử dụng máy tính để đảm bảo an toàn về điện.
+Cốc nước có thể bị đổ và làm ướt bàn phím máy tính của Minh khiến nó không hoạt động được. An nhấn và giữ công tắc làm máy tính bị tắt đột
+ngột, có thể gây ra lỗi cho phần cứng hoặc phần mềm. Bảo đảm an toàn về điện khi sử dụng máy tính để giữ an toàn cho bản thân em, đồng thời cũng là bảo vệ phần cứng và phần mềm máy tính.
+Sau đây là một số quy tắc khi sử dụng máy tính để đảm bảo an toàn cho phần cứng và phần mềm.
+- Máy tính là thiết bị điện nên cần thao tác cẩn thận, nhẹ tay và thực hiện quy tắc an toàn về điện như em đã học ở lớp 3.
+- Máy tính là thiết bị lưu trữ thông tin. Cần phải tắt máy tính đúng cách để không gây ra hỏng cho cả phần cứng và phần mềm.
+- Không sử dụng tuỳ tiện Internet hoặc phần mềm chưa được phép để tránh nguy cơ bị nhiễm virus máy tính.
+*Thao tác sử dụng máy tính không đúng cách có thể gây ra lỗi ảnh hưởng đến hoạt động bình thường của nó.*
+Chọn hành động sử dụng máy tính đúng cách.
+A. Sử dụng dao để cạo sạch những vết bẩn trên màn hình máy tính.
+B. **Nháy chuột vào nút Start, chọn nút Power rồi chọn lệnh Shut down để tắt máy tính.**
+C. Sử dụng khăn ướt để vệ sinh máy tính.
+D. Cài đặt và sử dụng bất cứ trò chơi nào mà mình thích lên máy tính.
+
+CỦNG CỐ
+1. Hãy kể một số phần cứng hỗ trợ việc học trực tuyến.
+2. Hãy kể tên một phần mềm giúp em học trực tuyến.
+VẬN DỤNG
+1. Em hãy chỉ ra đâu là phần cứng, đâu là phần mềm trong các phương án sau?
+a) Màn hình máy tính xách tay.
+b) Ổ đĩa cứng nằm trong thân máy.
+c) Máy in.
+d) Ứng dụng luyện gõ bàn phím.
+2. Việc nào sau đây là sử dụng máy tính đúng cách?
+A. **Đặt máy tính ở nơi thoáng mát, khô ráo, sạch sẽ.**
+B. Để cặp sách hoặc các đồ vật khác lên trên bàn phím.
+C. Sử dụng bút bi để viết lên bề mặt màn hình điện thoại thông minh.
+D. Truy cập tuỳ tiện vào bất kỳ trang thông tin nào trên Internet.
+
+# BÀI 2
+#### GÕ BÀN PHÍM ĐÚNG CÁCH
+Sau bài này em sẽ:
+Q Giải thích được lợi ích của việc gõ bàn phím đúng cách.
+Q Biết vị trí đặt các ngón tay khi gõ hàng phím số và thực hiện được thao tác gõ đúng cách.
+Q Gõ được đúng cách một đoạn văn bản ngắn khoảng 50 từ.
+##### KHỞI ĐỘNG
+#### 1. GÕ PHÍM VÀ LỢI ÍCH GÕ PHÍM ĐÚNG CÁCH
+#### HOẠT ĐỘNG Gõ thế nào cho đúng?
+[Hình ảnh 4: **Cách gõ phím của Khoa.** Mô tả bàn phím máy tính tiêu chuẩn (QWERTY), trong đó có các phím chức năng và chữ cái. Khoa chỉ dùng ngón tay trỏ của hai tay để gõ các kí tự.]
+Khi luyện tập gõ bàn phím máy tính, Khoa chỉ dùng ngón tay trỏ của hai bàn tay để gõ các kí tự. Theo cách gõ đó bạn Khoa sẽ gặp phải điều gì?
+Em hãy nhắc lại cách đặt tay khi gõ bàn phím máy tính. Hình nào sau đây thể hiện đúng cách đặt tay trên bàn phím ở vị trí xuất phát?
+[Hình ảnh 3: **Đặt tay trên bàn phím.** Hai hình (a) và (b) mô tả cách đặt tay trên bàn phím máy tính (QWERTY). Hình (a) mô tả cách đặt tay không đúng (các ngón tay không đặt vào vị trí xuất phát A S D F J K L ;). Hình (b) mô tả cách đặt tay đúng (tám ngón tay đặt trên hàng phím cơ sở A S D F J K L ;).]
+[Hình ảnh: Chi tiết bàn phím QWERTY.]
+Khi gõ phím số, các ngón tay của em từ vị trí xuất phát trên hàng phím cơ sở vươn đến gõ phím số. Sau khi gõ xong, đưa các ngón tay trở về vị trí xuất phát. Hình 6 minh hoạ các ngón tay tương ứng phụ trách gõ các phím số.
+d) Lợi ích của gõ bàn phím đúng cách
+e) Cách gõ các phím trên hàng phím số
+*Tiết kiệm thời gian và công sức.*
+*Bảo vệ sức khoẻ.* Lợi ích của việc
+gõ bàn phím đúng cách
+[Hình ảnh 6: **Các ngón tay phụ trách tương ứng cùng màu với các phím số.** Mô tả bàn phím (QWERTY) với hàng phím số (1 đến 0 và dấu -/=) được tô màu tương ứng với các ngón tay phụ trách gõ. Cụ thể: Ngón trỏ trái phụ trách phím 4, 5. Ngón trỏ phải phụ trách phím 6, 7. Các ngón khác phụ trách các phím số còn lại tương ứng với vị trí xuất phát.]
+[Hình ảnh 5: **Lợi ích của việc gõ bàn phím đúng cách.** Văn bản kèm theo hình ảnh bàn phím: *Gõ bàn phím đúng cách em sẽ tiết kiệm được thời gian và bảo vệ sức khoẻ.*]
+Gõ bàn phím đúng cách sẽ giúp em gõ nhanh và chính xác hơn, nhờ vậy em tiết kiệm thời gian và công sức. Khi luyện tập thường xuyên và gõ được đúng cách, em cũng không phải nhìn vào bàn phím và màn hình nhiều nên không bị mỏi mắt, mỏi cổ. Điều này giúp em bảo vệ sức khoẻ của mình.
+
+1. Luyện tập thường xuyên và gõ bàn phím đúng cách sẽ giúp em:
+A. **Gõ nhanh, chính xác và không cần nhìn bàn phím.**
+B. Giữ bàn phím sạch sẽ và không cần nhìn bàn phím.
+C. Gõ nhanh, chính xác và giữ bàn phím sạch sẽ.
+2. Em đặt ngón tay như thế nào sau khi gõ xong một phím trên hàng phím số?
+A. **Di chuyển ngón tay về vị trí xuất phát.**
+B. Giữ nguyên ngón tay trên hàng phím số.
+C. Di chuyển ngón tay về hàng phím trên.
+#### 2. THỰC HÀNH GÕ BÀN PHÍM ĐÚNG CÁCH
+##### NHIỆM VỤ 1 Tập gõ đúng cách đoạn thơ sau đây. Em có thể gõ không dấu.
+LÀM ANH
+Mẹ cho quà bánh
+Chia em phần hơn
+Có đồ chơi đẹp
+Cũng nhường em luôn.
+Làm anh thật khó
+Nhưng mà thật vui
+Ai yêu em bé
+Thì làm được thôi.
+Hướng dẫn
+*Bước 1: Nháy đúp chuột vào biểu tượng* [Hình ảnh: biểu tượng Notepad (một cuốn sổ màu xanh với chữ N màu trắng)] *trên màn hình nền để khởi động phần mềm Notepad.*
+*Bước 2: Đặt các ngón tay ở vị trí xuất phát và gõ đoạn thơ.*
+*Lưu ý: Sử dụng phím Caps Lock hoặc phím Shift để gõ được chữ hoa.*
+##### NHIỆM VỤ 2 Tập gõ đúng cách các đoạn văn bản sau. Em có thể gõ không dấu.
+a. Các số điện thoại khẩn cấp
+111 - Bảo vệ trẻ em
+112 - Tìm kiếm, cứu nạn
+113 - Công an
+114 - Cứu hoả
+115 - Cấp cứu
+Trích bài Làm anh - Phan Thị Thanh Nhàn - SGK Tiếng Việt 1 - Tập 2 (Bộ sách Kết nối tri thức với cuộc sống)
+b. Một năm có 365 ngày. Năm nhuận có 366 ngày, các tháng 4, 6, 9, 11 có 30 ngày. Các tháng 1, 3, 5, 7, 8, 10, 12 có 31 ngày. Tháng 2 có 28 ngày, năm nhuận tháng 2 có 29 ngày.
+Hướng dẫn: Thực hiện các bước 1, 2 tương tự như Nhiệm vụ 1.
+*Lưu ý: Gõ phím cách sau mỗi từ, trước dấu phẩy, dấu chấm không có dấu cách.*
+CỦNG CỐ
+1. Hãy ghép các ngón tay ở cột A tương ứng với phím phụ trách tại cột B để gõ phím đúng cách.
+| A | B |
+| 1) Ngón trỏ tay trái | A) gõ phím số 6, 7 |
+| 2) Ngón trỏ tay phải | B) gõ phím số 8 |
+| 3) Ngón giữa tay trái | C) gõ phím số 4, 5 |
+| 4) Ngón giữa tay phải | D) gõ phím số 9 |
+| 5) Ngón áp út tay trái | E) gõ phím số 3 |
+| 6) Ngón áp út tay phải | F) gõ phím số 0 |
+| 7) Ngón út tay trái | G) gõ phím số 2 |
+| 8) Ngón út tay phải | H) gõ phím số 1 |
+2. Hãy sắp xếp các câu sau theo thứ tự thực hiện việc gõ các phím trên hàng phím số theo đúng cách.
+a) Sau khi gõ xong một phím, phải đưa ngón tay trở về vị trí xuất phát tương ứng trên hàng phím cơ sở.
+b) Đặt các ngón tay ở vị trí xuất phát trên hàng phím cơ sở.
+c) Vươn ngón tay để gõ phím số tương ứng mà ngón tay đó phụ trách.
+
+VẬN DỤNG
+Em hãy khởi động phần mềm PowerPoint và thực hành gõ bàn phím đúng cách để gõ lời một bài hát mà em thích.
+
+# BÀI 3
+### CHỦ ĐỀ 2. MẠNG MÁY TÍNH VÀ INTERNET
+Sau bài này em sẽ:
+Q Nhận biết và phân biệt được các loại thông tin chính trên trang web: văn bản, hình ảnh, âm thanh và siêu liên kết.
+Q Giải thích được sơ lược tác hại khi trẻ em cố tình truy cập vào những trang web không phù hợp lứa tuổi và không nên xem.
+##### KHỞI ĐỘNG
+Hãy kể lại những gì em đã xem trên Internet. Những nội dung đó thuộc dạng thông tin nào?
+#### 1. CÁC DẠNG THÔNG TIN TRÊN TRANG WEB
+#### HOẠT ĐỘNG 1 Thông tin trên trang web
+Em hãy quan sát trang web ở Hình 7 và cho biết các vị trí được đánh số thể hiện thông tin thuộc dạng nào?
+[Hình ảnh 7: **Thông tin trên trang web.** Đây là kết quả tìm kiếm Google về "Tết Trung thu". Vị trí 1 (tiêu đề "Tết Trung thu cho thiếu nhi" và mô tả ngắn bên dưới): Văn bản. Vị trí 2 (hình thu nhỏ có biểu tượng VIDEO và biểu tượng Youtube): Hình ảnh và Video. Vị trí 3 (đoạn văn bản mô tả: "Giới thiệu Tết Trung thu theo Âm lịch là ngày Rằm tháng 8 hằng năm..."): Văn bản. Các thành phần khác bao gồm: Hình ảnh cho tết Trung thu, VIDEO, Tết Trung thu - Tìm trên..., đường link tìm kiếm.]
+01 | 02 | 03
+Em đã biết ba dạng thông tin thường gặp là chữ, hình ảnh và âm thanh. Trên trang web, thông tin được thể hiện rất đa dạng, có thể là kết hợp của các dạng thông tin trên như video.
+Các loại thông tin phổ biến trên trang web gồm: văn bản, hình ảnh, video,...
+Trên trang web, còn có những vị trí mà khi con trỏ chuột ở vị trí đó sẽ có hình [Hình ảnh: biểu tượng bàn tay chỉ ngón trỏ]. Đó là những vị trí chứa siêu liên kết. Khi nháy chuột vào đó thì sẽ mở một trang web khác hoặc di chuyển đến một vị trí khác.
+Văn bản chứa các loại thông tin văn bản, hình ảnh, âm thanh, video và siêu liên kết gọi là siêu văn bản. Trang web là siêu văn bản.
+1. Trên trang web có các loại thông tin nào?
+A. Chỉ có thông tin là văn bản và hình ảnh.
+B. Chỉ có thông tin là hình ảnh và âm thanh.
+C. Chỉ có thông tin là video.
+D. **Có các thông tin là văn bản, hình ảnh, âm thanh, video và siêu liên kết.**
+2. Sau đây là hình ảnh khi đưa con trỏ chuột đến một số vị trí trên trang web. Em hãy cho biết mục nào có chứa siêu liên kết?
+A. [Hình ảnh: Con trỏ chuột hình mũi tên chỉ vào chữ "Trăng ơi!"]
+B. **[Hình ảnh: Con trỏ chuột hình bàn tay chỉ vào chữ "Trăng ơi!"]**
+C. [Hình ảnh: Con trỏ chuột hình chữ I (soạn thảo) chỉ vào chữ "Trăng ơi!"]
+*Trên trang web thường có các loại thông tin: Văn bản, hình ảnh, âm thanh, video và siêu liên kết.*
+#### 2. TÁC HẠI KHI TRẺ EM TRUY CẬP TRANG WEB KHÔNG PHÙ HỢP
+#### HOẠT ĐỘNG 2 An gặp rắc rối gì?
+Trong khi truy cập Internet, bạn An vô tình vào một trang web trò chuyện không phù hợp. Em hãy quan sát Hình 8 và cho biết bạn An đã gặp rắc rối gì?
+[Hình ảnh 8: **Tình huống An gặp phải.** Màn hình máy tính hiển thị một cửa sổ trò chuyện với các tùy chọn cảm xúc: Ngốc nghếch, Giấu xí, Đáng ghét, Hư hỏng. Một thông báo từ "Kẻ xấu" (tên tài khoản được tô đỏ) hiện lên: "Hứa với tôi không được nói với ai, tôi sẽ tặng bạn cái này...". Bên dưới có khung chat để trả lời.]
+Em đã biết trên Internet không phải thông tin nào cũng phù hợp với các em, có những thông tin em chưa thể hiểu hết, có những thông tin độc hại như trò chơi bạo lực, phim ảnh có nội dung xấu,...
+Em không nên xem các thông tin đó, nếu cố tình xem em có thể gặp một số tác hại sau
+- Có những suy nghĩ tiêu cực và lệch lạc: Xem thông tin không phù hợp với lứa tuổi khiến các em không hiểu hết hoặc hiểu một cách lệch lạc ảnh hưởng đến suy nghĩ và nhận thức của các em.
+- Bị lừa đảo, dụ dỗ, bắt nạt: Kẻ xấu có thể gửi các tin nhắn mạo danh, nặc danh qua các trang web để đe doạ và làm tổn thương em hoặc dụ dỗ em làm điều xấu.
+- Lãng phí thời gian: Cố tình truy cập vào những trang web không phù hợp lứa tuổi và không nên xem, em bị mất đi thời gian quý báu cho học tập và những hoạt động bổ ích khác.
+Nếu cố tình truy cập vào trang web không phù hợp và không nên xem, em có thể gặp những tác hại gì?
+A. **Em có thể bị dụ dỗ, hướng dẫn làm theo những việc không đúng.**
+B. Máy tính của em có thể bị hỏng.
+C. **Em có thể bị bắt nạt, đe doạ trên mạng.**
+D. **Em bị lãng phí thời gian.**
+*Không nên xem các trang web không phù hợp lứa tuổi và có nguy cơ suy nghĩ lệch lạc, bị lừa đảo, dụ dỗ, bắt nạt và lãng phí thời gian.*
+[Hình ảnh 9: **Kẻ xấu dụ dỗ.** Hình ảnh hoạt hình mô tả hai nhân vật: một cô bé đứng trước máy tính với vẻ mặt lo lắng, và một nhân vật nam ẩn danh (kẻ xấu) đang đưa tay ra, có vẻ như đang dụ dỗ cô bé.]
+CỦNG CỐ
+1. Sau đây là hình ảnh khi con trỏ chuột di chuyển đến một số vị trí trên trang web mà bạn An đang xem. Em hãy cho biết những vị trí nào có chứa siêu liên kết?
+A. [Hình ảnh: Chữ "Tết Trung thu" với con trỏ chuột hình mũi tên.]
+B. **[Hình ảnh: Chữ "Tết Thiếu nhi" với con trỏ chuột hình bàn tay.]**
+C. **[Hình ảnh: Một hình ảnh minh họa với con trỏ chuột hình bàn tay.]**
+D. [Hình ảnh: Một đoạn văn bản với con trỏ chuột hình chữ I (soạn thảo).]
+2. Em hãy ghép mỗi hình ảnh cắt từ trang web với loại thông tin cho phù hợp.
+| Hình ảnh cắt từ trang web | Loại thông tin |
+| 1) Một đoạn văn bản. | D) Văn bản |
+| 2) Một hình ảnh. | E) Hình ảnh |
+| 3) Một video (có biểu tượng Play). | F) Video |
+| 4) Một biểu tượng âm thanh. | G) Âm thanh |
+3. Em hãy kể các tác hại khi cố tình xem thông tin trên trang web không phù hợp với lứa tuổi.
+VẬN DỤNG
+Tại sao em cần sự đồng hành của người lớn khi truy cập Internet?
+*Yêu Tổ quốc, yêu đồng bào / Học tập tốt, lao động tốt / Đoàn kết tốt, kỉ luật tốt / Giữ gìn vệ sinh thật tốt / Khiêm tốn, thật thà, dũng cảm.*
+
+Khoa: Hôm qua bố tớ vừa dạy cho tớ cách tìm kiếm thông tin trên Internet đấy. Chúng ta có thể tìm kiếm thông tin về các đời vua Hùng để hoàn thành bài tập nhóm môn Lịch sử và Địa lí.
+Minh: Hay đấy! Cậu hướng dẫn cho tớ cách tìm kiếm thông tin được không?
+Khoa: Trước tiên, cậu phải xác định được chủ đề mình định tìm kiếm, từ đó tìm các từ hoặc cụm từ liên quan đến thông tin tìm kiếm.
+*Câu hỏi: Theo em, bạn Khoa và bạn Minh đang cần tìm thông tin theo chủ đề* gì? *Với chủ đề đó, em hãy đưa ra các từ hoặc cụm từ gợi ý để các bạn tìm kiếm thông tin.*
+
+# BÀI 4
+### CHỦ ĐỀ 3. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+Sau bài này em sẽ:
+Q Xác định được chủ đề (từ khoá) của thông tin cần tìm.
+Q Biết cách dùng máy tìm kiếm để tìm thông tin theo từ khoá.
+Q Thực hiện được việc tìm kiếm thông tin trên Internet theo yêu cầu.
+##### KHỞI ĐỘNG
+#### 1. TÌM KIẾM THÔNG TIN TRÊN INTERNET
+#### HOẠT ĐỘNG Tìm kiếm thông tin trên Internet
+Minh: Sau khi xác định từ hoặc cụm từ tìm kiếm chúng ta phải làm gì tiếp theo?
+Khoa: Cậu truy cập vào trang web tìm kiếm bằng cách nháy đúp
+chuột vào biểu tượng Google Chrome trên màn hình nền, gõ google.com vào thanh địa chỉ. Sau đó gõ cụm từ đã xác định ở trên vào ô tìm kiếm trên trang Google rồi nhấn phím Enter. Ví dụ, tớ xác định cụm từ tìm kiếm là Các đời vua Hùng, tớ sẽ thực hiện như sau
+*Trong Hoạt động trên, cụm từ Các đời vua Hùng là từ khoá. Từ khoá là từ hoặc cụm từ thể hiện nội dung thông tin chúng ta muốn tìm kiếm.*
+Bạn Khoa đã truy cập vào trang web google.com để tìm kiếm thông tin. Google.com là địa chỉ của một máy tìm kiếm. Có rất nhiều máy tìm kiếm, ví dụ: google.com, bing.com, ask.com,... là các máy tìm kiếm được sử dụng phổ biến.
+Các bước cần thiết để tìm kiếm thông tin:
+1. Xác định từ khoá cần tìm kiếm.
+2. Mở trình duyệt và gõ địa chỉ của máy tìm kiếm.
+3. Gõ từ khoá tìm kiếm vào ô tìm kiếm rồi nhấn phím Enter, trên trang web sẽ xuất hiện danh sách các siêu liên kết.
+4. Nháy chuột vào một siêu liên kết trong danh sách để xem thông tin chi tiết.
+1. Nếu muốn tìm kiếm thông tin về Bảo tàng dân tộc học Việt Nam thì từ khoá nào là phù hợp nhất?
+A. Bảo tàng.
+B. **Bảo tàng dân tộc học Việt Nam.**
+C. Bảo tàng Việt Nam.
+D. Các dân tộc ở Việt Nam.
+*Từ khoá là từ hoặc cụm từ thể hiện nội dung muốn tìm kiếm.*
+Câu hỏi: Bạn Khoa đã chỉ cho bạn Minh tìm thông tin trên Internet bằng cách truy cập vào trang web nào? Em hãy nhận xét kết quả tìm kiếm.
+[Hình ảnh: Màn hình trình duyệt web với địa chỉ https://www.google.com/]
+[Hình ảnh 10: **Tìm kiếm thông tin trên Internet.** Màn hình hiển thị kết quả tìm kiếm trên Google. Mục "Thanh địa chỉ" hiển thị `https://www.google.com/`. Mục 1 chỉ vào ô tìm kiếm để gõ cụm từ `Cac doi vua Hung` rồi nhấn Enter. Mục 2 chỉ vào một kết quả tìm kiếm (`Hiểu thêm về các Vua Hùng - Báo Lao Động`) để xem thông tin chi tiết.]
+Khoảng 11.400.000 kết quả (0,37 giây)
+[Kết quả tìm kiếm thứ hai: "18 đời vua Hùng gồm những ai? - VTC News".]
+[Kết quả tìm kiếm thứ ba (Video): "Lịch Sử Các Vua Hùng [FULL] - Sự Thật Về 18 Đời Hùng ... YouTube · BÍ ẨN SỬ VIỆT".]
+Kết quả tìm kiếm
+#### 2. THỰC HÀNH TÌM KIẾM THÔNG TIN
+##### NHIỆM VỤ: Sử dụng máy tìm kiếm để tìm kiếm các thông tin về Hồ Gươm.
+*Hướng dẫn: Những hướng dẫn sau đây sử dụng máy tìm kiếm Google để minh hoạ.*
+*Bước 1: Xác định từ khoá là Hồ Gươm.*
+*Bước 2: Mở trình duyệt web và gõ địa chỉ máy tìm kiếm vào thanh địa chỉ.*
+*Bước 3: Gõ từ Hồ Gươm vào ô tìm kiếm (có thể chọn một cụm từ gợi ý trong danh sách đổ xuống), rồi nhấn phím Enter.*
+*Bước 4: Kết quả tìm kiếm là danh sách các trang web có chứa từ khoá tìm kiếm. Em hãy quan sát và nhận xét về trang thông tin kết quả.*
+[Hình ảnh 13: **Kết quả tìm kiếm.** Màn hình hiển thị kết quả tìm kiếm Google cho từ khóa "Hồ Gươm". Thông báo: Khoảng 5.020.000 kết quả (0,47 giây). Kết quả đầu tiên: Tiêu đề "Hồ Gươm – Viên ngọc sáng của thủ đô Hà Nội", link `https://vietnamtourism.gov.vn`.]
+[Kết quả tìm kiếm thứ hai: Tiêu đề "Hồ Gươm – Địa danh nổi tiếng của Hà Nội không thể bỏ qua", link `https://hanoi1000.vn`.]
+[Kết quả tìm kiếm thứ ba (Video): "Hồ Gươm (Hồ Hoàn Kiếm) - Cảnh đẹp không thể bỏ qua khi ... YouTube · Ẩm Thực và Du Lịch".]
+2. Sắp xếp các bước theo đúng thứ tự để tìm kiếm thông tin.
+a) Truy cập vào máy tìm kiếm.
+b) Gõ từ khoá vào ô tìm kiếm.
+c) Xác định từ khoá.
+d) Nháy chuột vào một siêu liên kết để mở trang web xem thông tin chi tiết.
+(Thứ tự đúng là c -> a -> b -> d)
+[Hình ảnh 11: **Truy cập địa chỉ máy tìm kiếm.** Mô tả việc gõ `google.com` vào thanh địa chỉ của trình duyệt.]
+[Hình ảnh 12: **Nhập vào từ khoá để tìm kiếm.** Màn hình Google hiển thị ô tìm kiếm với từ khoá `Ho Guom` (Hồ Gươm) được nhập, kèm danh sách gợi ý.]
+CỦNG CỐ
+1. Các bạn chọn từ khoá cho chủ đề về vai trò của không khí đối với con người. Mỗi bạn lựa chọn từ khoá tìm kiếm khác nhau, theo em bạn nào sau đây chọn từ khoá phù hợp nhất?
+A. Khoa: Không khí.
+B. An: Không khí và con người.
+C. **Minh: Vai trò của không khí đối với con người.**
+D. Hoà: Con người cần không khí không?
+2. Thực hành tìm kiếm thông tin theo chủ đề tìm hiểu về Văn Miếu - Quốc Tử Giám theo các yêu cầu sau:
+1) Xác định từ khoá.
+2) Truy cập vào máy tìm kiếm và tìm kiếm thông tin.
+3) Nhận xét về kết quả nhận được.
+VẬN DỤNG
+1. Em sẽ chọn từ khoá nào để tìm thông tin về danh lam thắng cảnh ở địa phương nơi em đang sống? Hãy thực hành tìm kiếm với từ khoá đó.
+2. Hãy tìm kiếm một vài thông tin về một địa điểm em mong muốn được tới thăm và chia sẻ thông tin đó với bố mẹ, thầy cô giáo hoặc bạn bè.
+*Bước 5: Nháy chuột vào một siêu liên kết để mở trang web và xem thông tin chi tiết về Hồ Gươm.*
+[Hình ảnh 14: **Thông tin chi tiết về Hồ Gươm trên trang web của Tổng cục du lịch.** Màn hình hiển thị một trang web du lịch với hình ảnh Hồ Gươm và đoạn văn bản chi tiết mô tả Hồ Hoàn Kiếm.]
+Đầu năm học, cô giáo đã thống nhất với cả lớp và tạo cây thư mục như trong Hình 15a để lưu trữ bài tập và tư liệu của mỗi bạn ở máy tính trong phòng thực hành. Hôm nay, bạn Thu An chuyển từ Nhóm 1 sang Nhóm 2 nên cần thay đổi cây thư mục như trong Hình 15b, theo em cần phải thực hiện thao tác nào?
+
+Ở bài học này em sẽ tiếp tục được học những thao tác với tệp và thư mục.
+# BÀI 5
+#### THAO TÁC VỚI TỆP VÀ THƯ MỤC
+Sau bài này em sẽ:
+Q Thực hiện được các thao tác cơ bản với thư mục và tệp: tạo và xoá thư mục, xoá tệp, di chuyển một thư mục hay một tệp vào trong thư mục khác, sao chép thư mục và tệp, đổi tên tệp.
+Q Nêu được tác hại khi thao tác nhầm, từ đó có ý thức cẩn thận khi thực hiện các thao tác nêu trên.
+##### KHỞI ĐỘNG
+[Hình ảnh 15: **Hình ảnh cây thư mục.** a) Cây thư mục ban đầu: `Du lieu (D:) > Lop 4a > Nhom 1` chứa các thư mục con `Dang Khoa`, `Thu An`, `Gia Minh`. Và `Lop 4a > Nhom 2` chứa các thư mục con `Tran Huy`, `Viet Anh`. b) Cây thư mục sau khi thay đổi: `Lop 4a > Nhom 1` chứa `Dang Khoa`, `Gia Minh`. Và `Lop 4a > Nhom 2` chứa `Thu An`, `Tran Huy`, `Viet Anh`.]
+#### 1. CÁC THAO TÁC VỚI TỆP VÀ THƯ MỤC
+#### HOẠT ĐỘNG 1 Thao tác với thư mục
+Em có biết cách nhanh nhất để từ cây thư mục như ở Hình 15a có cây thư mục như ở Hình 15b không?
+Ngoài các thao tác đã học ở lớp 3 như tạo, đổi tên và xoá thư mục, em có thể di chuyển hoặc sao chép tệp và thư mục đến thư mục khác.
+- Khi di chuyển một thư mục đến thư mục khác thì tất cả tệp và thư mục con trong thư mục đó sẽ được di chuyển đến vị trí mới và không còn tồn tại ở vị trí cũ.
+Ví dụ: Khi em di chuyển thư mục Thu An (Hình 16) từ Nhom 1 sang Nhom 2. Thư mục Thu An và tệp Gioi thieu chỉ tồn tại trong thư mục Nhom 2 (Hình 17a).
+[Hình ảnh 16: **Thư mục ban đầu.** Màn hình hiển thị danh sách thư mục `Lop 4a` chứa `Nhom 1` và `Nhom 2`. `Nhom 1` chứa `Thu An`, và `Thu An` chứa tệp `Gioi thieu` (và thư mục `Gia Minh`, `Dang Khoa`). `Nhom 2` chứa `Tran Huy`, `Viet Anh`.]
+- Khi sao chép một thư mục đến vị trí khác thì tất cả tệp và thư mục con trong thư mục đó sẽ tồn tại ở cả vị trí mới và vị trí cũ.
+Ví dụ: Khi em sao chép thư mục Thu An (Hình 16) từ Nhom 1 sang Nhom 2. Thư mục Thu An và tệp Gioi thieu sẽ tồn tại ở cả hai thư mục Nhom 1 và Nhom 2 (Hình 17b).
+Để thực hiện nhiệm vụ ở Hoạt động khởi động, cách nào sau đây là tốt nhất?
+A. Tạo mới thư mục Thu An ở Nhom 2 và xoá thư mục Thu An ở Nhom 1.
+B. **Di chuyển thư mục Thu An từ Nhom 1 sang Nhom 2.**
+C. Sao chép thư mục Thu An từ Nhom 1 sang Nhom 2, rồi xoá thư mục Thu An ở Nhom 1.
+#### 2. TÁC HẠI KHI THAO TÁC NHẦM VỚI TỆP VÀ THƯ MỤC
+#### HOẠT ĐỘNG 2 Thao tác không đúng sẽ dẫn đến tác hại gì?
+Bạn nào sau đây có thao tác không đúng? Thao tác đó sẽ dẫn đến hậu quả gì?
+A. Minh sao chép một tệp trong thư mục Video đến thư mục của mình.
+B. An xoá các thư mục và tệp nháp trong thư mục của mình.
+C. **Huy xoá tệp trong thư mục Windows ở ổ đĩa C:.**
+D. Khoa đổi tên thư mục con trong thư mục của mình.
+Trong máy tính, ngoài tệp và thư mục do em tạo ra còn có rất nhiều tệp và thư mục khác. Em chỉ nên thao tác với tệp và thư mục do mình tự tạo ra, không nên tự ý thao tác với các thư mục hoặc tệp có sẵn trên máy tính.
+*Các thao tác với tệp và thư mục: Tạo thư mục, đổi tên, xoá, di chuyển, sao chép.*
+[Hình ảnh 17: **Minh hoạ việc di chuyển và sao chép thư mục.** a) Sau khi di chuyển thư mục: Cây thư mục `Lop 4a` > `Nhom 1` không còn thư mục `Thu An` và tệp `Gioi thieu`. b) Sau khi sao chép thư mục: Cây thư mục `Lop 4a` > `Nhom 1` và `Nhom 2` đều chứa thư mục `Thu An` và tệp `Gioi thieu` bên trong.],
+*Thao tác nhầm với tệp và thư mục sẽ dẫn đến nhiều tác hại như mất một thông tin gây lỗi chương trình đối với tệp tồn tại sẵn, khó tổ chức lưu trữ thông tin tốt, tốn bộ nhớ lưu trữ,...*
+Theo em khi thao tác nhầm với tệp và thư mục có thể dẫn đến những tác hại nào?
+A. **Làm mất thông tin.**
+B. **Lỗi chương trình máy tính.**
+C. **Khó quản lí tệp và thư mục.**
+D. Làm hỏng phần cứng máy tính.
+#### 3. THỰC HÀNH THAO TÁC VỚI TỆP VÀ THƯ MỤC
+##### NHIỆM VỤ 1 Em hãy tạo cây thư mục theo gợi ý như ở Hình 18. Sau đó sao chép tệp trình chiếu Gioi thieu ở ổ đĩa D: vào thư mục Thu An, rồi xoá tệp Gioi thieu ở ổ đĩa D:.
+*Lưu ý: Tệp Gioi thieu ở ổ đĩa D: sẽ được thầy cô giáo cung cấp sẵn trên máy tính thực hành.*
+Hướng dẫn:
+- Em hãy thực hiện việc tạo thư mục như đã học ở lớp 3.
+- Sao chép một tệp: hướng dẫn chi tiết sau đây sẽ sao chép tệp Gioi thieu ở ổ đĩa D: vào thư mục Thu An.
+[Hình ảnh 18: **Cây thư mục.** Cấu trúc: `Du lieu (D:) > Lop 4a > Nhom 1` (chứa `Dang Khoa`, `Thu An`, `Gia Minh`) và `Lop 4a > Nhom 2` (chứa `Viet Anh`, `Tran Huy`).]
+*Xoá, đổi tên hoặc di chuyển tệp và thư mục của chương trình máy tính sẽ dẫn đến lỗi chương trình, treo máy tính, v.v.*
+*Sao chép, di chuyển tệp và thư mục của người khác sẽ làm đảo lộn trật tự gây khó khăn cho người sử dụng khác.*
+Tác hại của việc thao tác nhầm với tệp và thư mục
+*Sao chép tệp đến nhiều thư mục trên máy tính sẽ khiến người sử dụng khó quản lí tệp, đồng thời làm tốn bộ nhớ để lưu trữ.*
+*Xoá, đổi tên, di chuyển tệp hoặc thư mục có thể vô tình làm mất thông tin.*,
+*Lưu ý: Sao chép một thư mục được thực hiện tương tự như sao chép một tệp. Khi sao chép thư mục thì tất cả các tệp và thư mục con của thư mục đó cũng được sao chép.*
+- Thao tác xoá tệp thực hiện tương tự như xoá thư mục đã học ở lớp 3.
+##### NHIỆM VỤ 2 Em hãy thực hiện các yêu cầu sau:
+a) Di chuyển thư mục Thu An từ Nhom 1 sang Nhom 2.
+b) Đổi tên tệp Gioi thieu thành Gioi thieu nhom.
+Hướng dẫn:
+a) Để di chuyển thư mục Thu An từ Nhom 1 sang Nhom 2, em thực hiện thao tác như sau
+*1. Chọn ổ đĩa D: 2. Chọn tệp Gioi thieu 3. Chọn lệnh Copy*
+[Hình ảnh: Giao diện File Explorer mô tả việc chọn tệp `Gioi thieu` trên ổ đĩa D: và chọn lệnh Copy.]
+*4. Chọn thư mục Thu An 5. Chọn lệnh Paste*
+[Hình ảnh 19: **Sao chép một tệp.** Giao diện File Explorer hiển thị tệp `Gioi thieu` đã được dán (Paste) vào thư mục `Thu An`.]
+[Hình ảnh 20: **Di chuyển thư mục.** Giao diện File Explorer hiển thị cấu trúc `Lop 4a > Nhom 1` chứa `Dang Khoa`, `Gia Minh`, `Thu An`.]
+*1. Chọn thư mục Nhom 1*
+*2. Chọn thư mục Thu An*
+*3. Chọn lệnh Move to*
+*4. Chọn thư mục Nhom 2*
+[Hình ảnh: Giao diện File Explorer mô tả các bước di chuyển thư mục `Thu An` từ `Nhom 1` sang `Nhom 2` bằng lệnh Move to.]
+*Lưu ý: Nếu em không thấy thư mục Nhom 2 trong danh sách hiện ra sau khi chọn lệnh Move to thì em có thể chọn Choose location... rồi tiếp tục tìm đến thư mục Nhom 2 trong máy tính.*
+Khi di chuyển một thư mục thì các tệp và thư mục con của thư mục đó cũng di chuyển theo.
+b) Đổi tên tệp được thực hiện tương tự như đổi tên thư mục đã học ở lớp 3. Em thực hiện các thao tác như sau
+*1. Chọn thư mục Thu An*
+*2. Chọn tệp Gioi thieu*
+*3. Chọn lệnh Rename*
+*4. Gõ tên mới Gioi thieu nhom rồi nhấn phím Enter*
+[Hình ảnh 21: **Đổi tên tệp.** Giao diện File Explorer, tệp `Gioi thieu` được chọn và đang được đổi tên thành `Gioi thieu nhom`.]
+CỦNG CỐ
+1. Khi em muốn tệp và thư mục tồn tại cả ở thư mục cũ và thư mục mới em sử dụng một thao tác nào?
+A. **Sao chép.**
+B. Di chuyển.
+C. Xoá.
+D. Đổi tên.
+2. Em hãy thực hành các nhiệm vụ sau:
+a) Tạo thư mục con trong thư mục mang tên em theo gợi ý ở Hình 22.
+b) Sao chép một tệp hình ảnh trên máy tính vào thư mục Hinh anh, sao chép một tệp trình chiếu vào thư mục Bai tap và đổi tên tệp thành Hotenlopbai 1.
+c) Di chuyển thư mục Bai tap sang thư mục Nhom 2 và đổi tên thành Bai tap nhom.
+d) Sao chép thư mục Hinh anh vào Nhom 2 và xoá thư mục Hinh anh trong thư mục Thu An.
+[Hình ảnh 22: **Cây thư mục gợi ý.** Cấu trúc: `Du lieu (D:) > Lop 4a > Nhom 1` chứa `Thu An`. `Thu An` chứa `Anh chup`, `Hinh anh`, `Bai tap`, `Bai trinh chieu`. Ngoài ra còn có `Nhom 2` chứa `Viet Anh`, `Tran Huy`.]
+VẬN DỤNG
+Em có một thư mục chứa các tệp ảnh và video về buổi tham quan của lớp, em muốn chia sẻ cho các bạn. Em sẽ làm cách nào để thư mục đó vừa có trên máy tính của em, vừa có trên máy tính của các bạn?
+
+# BÀI 6
+### CHỦ ĐỀ 4. ĐẠO ĐỨC PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+Sau bài này em sẽ:
+Q Nêu được một vài ví dụ cụ thể về phần mềm miễn phí và phần mềm không miễn phí.
+Q Biết rằng chỉ được sử dụng phần mềm khi được phép.
+##### KHỞI ĐỘNG
+#### 1. PHÂN BIỆT PHẦN MỀM MIỄN PHÍ VÀ PHẦN MỀM KHÔNG MIỄN PHÍ
+Các phần mềm được cá nhân hoặc tổ chức sản xuất ra để đáp ứng các nhu cầu làm việc, học tập hay giải trí của con người. Có phần mềm
+miễn phí và phần mềm không miễn phí sử dụng.
+*Phần mềm miễn phí | Phần mềm không miễn phí*
+[Hình ảnh 23: **Một số phần mềm trên Internet.** Mô tả các biểu tượng ứng dụng phổ biến, được chia thành hai nhóm: Phần mềm miễn phí (Google Chrome, Unikey, Scratch) và Phần mềm không miễn phí (Microsoft Word, Microsoft PowerPoint).]
+#### HOẠT ĐỘNG 1 Phần mềm miễn phí
+Ở lớp 3 em đã được làm quen với nhiều phần mềm như phần mềm trình chiếu, phần mềm luyện tập chuột, phần mềm luyện tập gõ phím, phần mềm tìm hiểu thế giới tự nhiên,... Trong số các phần mềm đó, phần mềm nào miễn phí, phần mềm nào không miễn phí?
+| Phần mềm | Tác giả | Chức năng | Quyền sử dụng |
+| PowerPoint | Công ty Microsoft | Tạo bài trình chiếu | Không miễn phí |
+| Kiran's Typing Tutor | Kĩ sư lập trình Kiran người Ấn Độ | Luyện tập gõ bàn phím | Miễn phí |
+*Phần mềm miễn phí | Phần mềm không miễn phí*
+1. Những phần mềm nào sau đây là miễn phí?
+A. **[Hình ảnh: Biểu tượng Google Chrome.]**
+B. **[Hình ảnh: Biểu tượng Unikey.]**
+C. [Hình ảnh: Biểu tượng Microsoft Word.]
+D. [Hình ảnh: Biểu tượng Microsoft PowerPoint.]
+2. Em hãy lấy ví dụ về phần mềm miễn phí và phần mềm không miễn phí có trong máy tính của em.
+#### 2. SỬ DỤNG PHẦN MỀM KHI ĐƯỢC PHÉP
+Mỗi phần mềm là sản phẩm trí tuệ và cũng là tài sản của tác giả. Tác giả của phần mềm có thể là cá nhân hoặc tổ chức. Tác giả có quyền cho phép hoặc không cho phép người khác sử dụng phần mềm.
+Phần mềm đã được tác giả cho phép sử dụng còn được gọi là phần mềm có bản quyền. Em chỉ được sử dụng phần mềm khi đã được tác giả cho phép.
+*Chỉ được sử dụng phần mềm có bản quyền. Không được sử dụng phần mềm không được bản quyền.*
+#### HOẠT ĐỘNG 2 Không sử dụng trái phép phần mềm có bản quyền.
+Theo dõi đoạn hội thoại dưới đây của các bạn An, Minh, Khoa và trả lời câu hỏi.
+Khoa: Mấy hôm nay, phần mềm trình chiếu của tớ luôn thông báo "Product Activation Failed" và trở nên khó sử dụng. Tại sao vậy nhỉ?
+An: Đó là phần mềm có bản quyền nhưng phần mềm trên máy của bạn đã hết hạn. Cần phải trả phí cho nhà sản xuất để phần mềm được tiếp tục sử dụng bình thường.
+Minh: Tớ biết có người tìm được cách để vẫn sử dụng được phần mềm đó mà không phải trả tiền đấy!
+An: Đó là việc làm vừa vi phạm pháp luật, vừa ảnh hưởng đến quyền lợi của người làm ra phần mềm.
+Khoa: Tớ không lựa chọn cách làm đó vì nó còn gây ra mất an toàn đối với máy tính của mình nữa!
+*Câu hỏi: Em hãy kể những ví dụ cụ thể, làm rõ tại sao không nên sử dụng trái phép phần mềm có bản quyền.*
+Dùng phần mềm có bản quyền tránh được những rủi ro nào sau đây?
+A. **Máy tính bị nhiễm virus.**
+B. **Bị đánh cắp thông tin.**
+C. **Vi phạm pháp luật.**
+D. Bị mất điện.
+CỦNG CỐ
+1. Trong máy tính của An có các phần mềm: Word, Unikey, Kiran's Typing Tutor và Kids Games Learning Science. Theo em, trong số phần mềm đó, phần mềm nào là không miễn phí?
+2. Chúng ta nên sử dụng phần mềm có bản quyền vì những lí do nào sau đây?
+A. **Được hỗ trợ nếu phần mềm bị trục trặc.**
+B. **Bảo vệ người sản xuất phần mềm.**
+C. **Giữ an toàn thông tin trong máy tính.**
+D. Được xem nhiều đoạn video quảng cáo.
+
+VẬN DỤNG
+Nếu biết anh Bình sử dụng phần mềm không có bản quyền thì em sẽ nói gì với anh Bình?
+*Chỉ được sử dụng phần mềm có bản quyền.*
+*Giữ được an toàn thông tin trên máy tính.*
+*Tránh nguy cơ vi phạm pháp luật.*
+Lí do nên sử dụng phần mềm có bản quyền
+*Có thể được hỗ trợ từ nhà sản xuất khi phần mềm gặp sự cố hoặc trục trặc.*
+*Bảo vệ quyền lợi của người làm ra sản phẩm có ích cho xã hội.*
+Chúng ta chỉ sử dụng phần mềm có bản quyền vì các lí do sau
+Ví dụ, phần mềm PowerPoint trên máy tính cô giáo đã mua quyền sử dụng là có bản quyền. Phần mềm luyện gõ phím Kiran's Typing Tutor là có bản quyền vì tác giả cho phép sử dụng miễn phí.
+
+# BÀI 7
+### CHỦ ĐỀ 5. ỨNG DỤNG TIN HỌC
+Sau bài này em sẽ:
+Q Thực hiện được thành thạo việc khởi động và thoát khỏi phần mềm trình chiếu.
+Q Tạo được tệp trình chiếu đơn giản bằng tiếng Việt có chữ hoa, chữ thường và có ảnh.
+Q Lưu được tệp vào đúng thư mục theo yêu cầu.
+#### 1. GÕ CHỮ TIẾNG VIỆT
+Để gõ được tiếng Việt trên máy tính, cần có phần mềm hỗ trợ như Unikey, Vietkey, EVkey,...
+Có hai kiểu gõ tiếng Việt phổ biến là Telex và VNI. Bảng 1 và Bảng 2 sau đây hướng dẫn em gõ chữ và dấu tiếng Việt theo kiểu Telex.
+##### KHỞI ĐỘNG
+#### HOẠT ĐỘNG Gõ chữ tiếng Việt
+Ở lớp 3 em đã tạo được bài trình chiếu đơn giản và gõ được một vài dòng văn bản đơn giản. Em hãy quan sát nội dung trên hai trang chiếu sau, theo em nội dung nào rõ nghĩa hơn? Tại sao?
+[Hình ảnh 24: **Nội dung trên hai trang chiếu.** a) "Cảnh dep que huong" (không dấu). b) "Cảnh đẹp quê hương" (có dấu).]
+[Hình ảnh 25: **Một số phần mềm hỗ trợ gõ tiếng Việt.** Biểu tượng Unikey, Vietkey, EVkey.]
+*Bảng 1. Gõ chữ tiếng Việt kiểu Telex.*
+Để có chữ: â, ê, ô, đ, ă, ơ, ư. Em gõ: aa, ee, oo, dd, aw, ow, uw.
+Ví dụ: Để có từ đi chơi, em gõ ddi chowi.
+*Bảng 2. Gõ dấu thanh trong tiếng Việt kiểu Telex.*
+| Để được dấu | Sắc | Huyền | Hỏi | Ngã | Nặng |
+| Em gõ | s | f | r | x | j |
+Khi gõ dấu thanh tiếng Việt, em có thể gõ phím dấu thanh ở cuối từ. Ví dụ: Để có câu Uống nước nhớ nguồn, em gõ Uoonfs nuwowcs nhos nguoonf.
+Để gõ chữ hoa, em nhấn giữ phím Shift đồng thời gõ phím chữ.
+*Lưu ý: Em có thể gõ chữ tiếng Việt theo kiểu VNI như sau*
+*Bảng 3. Gõ chữ và dấu thanh trong tiếng Việt kiểu VNI.*
+1. Những phát biểu nào sau đây là đúng?
+A. **Để gõ được tiếng Việt, máy tính cần phải được cài đặt phần mềm hỗ trợ gõ tiếng Việt.**
+B. **Để gõ chữ hoa, em nhấn phím Shift đồng thời gõ phím chữ.**
+C. Có thể gõ phím dấu tiếng Việt theo kiểu Telex ở vị trí bất kì của từ.
+2. Để có từ quê hương, em sẽ gõ như thế nào theo kiểu Telex?
+A. quee huong
+B. quee huwowng
+C. **que huwowng**
+| Để có chữ | â | ê | ô | đ | ă | ơ | ư |
+| Em gõ (kiểu VNI) | a6 | e6 | o6 | d9 | a8 | o7 | u7 |
+| Để được dấu | Sắc | Huyền | Hỏi | Ngã | Nặng |
+| Em gõ (kiểu VNI) | 1 | 2 | 3 | 4 | 5 |
+*Để gõ được văn bản tiếng Việt cần có phần mềm gõ tiếng Việt.*
+*Có hai kiểu gõ tiếng Việt phổ biến là TELEx và VNI.*
+#### 2. THỰC HÀNH TẠO TRANG THÔNG TIN
+##### NHIỆM VỤ Em hãy thực hiện các yêu cầu sau
+a) Tạo bài trình chiếu có chủ đề giới thiệu về cảnh đẹp ở địa phương em với gợi ý sau:
+*Trang 1: Tiêu đề, họ tên, lớp. Trang 2: Liệt kê danh sách một số*
+địa danh.
+*Trang 3: Một hình ảnh về phong cảnh quê hương, có chú thích cho hình ảnh.*
+*Trang 4: Lời mời đến thăm.*
+b) Lưu tệp trình chiếu vào thư mục của em đã tạo ở Bài 5 và thoát khỏi phần mềm.
+Hướng dẫn: (Những hướng dẫn dưới đây sử dụng phần mềm Microsoft PowerPoint 2010 để minh hoạ).
+a) Để tạo bài trình chiếu em làm như sau:
+*Bước 1: Khởi động phần mềm trình chiếu. Bước 2: Tạo bốn trang chiếu, gõ nội dung và chèn thêm ảnh.*
+*Lưu ý: Nháy chuột vào biểu tượng của phần mềm Unikey ở góc dưới bên phải màn hình nền để chuyển đổi giữa chế độ gõ tiếng Anh* [Hình ảnh: Biểu tượng chữ E (English)] *và chế độ gõ tiếng Việt* [Hình ảnh: Biểu tượng chữ V (Vietnamese)].
+b) Lưu tệp trình chiếu vào thư mục và thoát khỏi phần mềm.
+*Bước 1: Lưu tệp trình chiếu vào thư mục của em. Sau đây minh hoạ cách bạn An lưu tệp Cảnh dep que huong vào thư mục Thu An.*
+Chọn lệnh Save trong bảng chọn File. Cửa sổ Save As hiện ra tương tự như sau
+[Hình ảnh 26: **Các trang chiếu minh hoạ.** Gồm 4 trang: Trang 1 (Tiêu đề, Tên, Lớp), Trang 2 (Liệt kê địa danh), Trang 3 (Hình ảnh phong cảnh kèm chú thích), Trang 4 (Lời mời).]
+*Bước 2: Nháy chuột vào nút* [Hình ảnh: nút X (Close)] *để thoát khỏi phần mềm.*
+CỦNG CỐ
+1. Để có từ khiêm tốn, em sẽ gõ như thế nào theo kiểu Telex?
+A. khiem toons
+B. khiem toonsr
+C. khiem toonr
+D. khiem toonf
+2. Em hãy tạo bốn trang chiếu với chủ đề giới thiệu trường em theo gợi ý sau
+*Trang 1: Tên trường Trang 2: Địa chỉ Trang 3: Ảnh trường, Hoạt động văn nghệ Trang 4: Tình cảm của em với trường*
+Lưu tệp với tên Truong em vào thư mục của em đã tạo từ Bài 5.
+VẬN DỤNG
+Em hãy tạo bài trình chiếu gồm 4 trang để giới thiệu về môn thể thao mà em yêu thích theo gợi ý sau
+*Trang 1: Tên môn thể thao Trang 2: Hình ảnh minh hoạ của môn thể thao Trang 3: Cách chơi Trang 4: Lợi ích khi chơi môn thể thao*
+Lưu tệp với tên The thao vào thư mục của em đã tạo từ Bài 5.
+
+1. Chọn đến thư mục Thu An
+2. Gõ tên tệp
+3. Nháy chuột vào nút lệnh Save để lưu
+[Hình ảnh 27: **Cửa sổ Save As.** Giao diện cửa sổ Save As, nơi người dùng chọn thư mục (Thu An), gõ tên tệp (Canh dep que huong) và nháy nút Save.]
+# BÀI 8
+#### ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU
+Sau bài này em sẽ:
+Q Định dạng được kiểu chữ, màu chữ, cỡ chữ cho văn bản trên trang chiếu.
+Q Tạo được tệp trình chiếu có sử dụng công cụ gạch đầu dòng.
+##### KHỞI ĐỘNG
+#### 1. ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU
+Để trang chiếu dễ đọc, dễ nhớ và đẹp hơn, em có thể thay đổi phông chữ, kiểu chữ, màu chữ và cỡ chữ cho văn bản trên trang chiếu.
+Để định dạng phông chữ, kiểu chữ, màu chữ, cỡ chữ cho văn bản trên trang chiếu, em sử dụng các nút lệnh trong nhóm lệnh Font của dải lệnh Home.
+Để định dạng dấu đầu dòng, em sử dụng nút lệnh Bullets trong nhóm lệnh Paragraph của dải lệnh Home.
+Trước khi định dạng em cần chọn phần văn bản, sau đó chọn nút lệnh định dạng văn bản.
+#### HOẠT ĐỘNG So sánh hai trang chiếu
+An và Khoa tạo trang đầu tiên của bài trình chiếu "Cảnh đẹp quê hương". Em hãy quan sát và cho biết hai trang chiếu sau có gì khác nhau? Em thích trang chiếu nào hơn? Tại sao?
+[Hình ảnh 28: **Cách trình bày hai trang chiếu.** a) Trang chiếu của Nguyễn Thu An: Tiêu đề "Cảnh đẹp quê hương" (chữ nhỏ, không định dạng nổi bật), Tên, Lớp. b) Trang chiếu của Lê Đăng Khoa: Tiêu đề "Cảnh đẹp quê hương" (chữ lớn hơn, màu nổi bật, in đậm), Tên, Lớp.]
+[Hình ảnh 29: **Các nút lệnh định dạng văn bản.** Giao diện ribbon Home trong phần mềm trình chiếu, hiển thị nhóm lệnh Font và Paragraph. Bao gồm các nút lệnh: Phông chữ (Calibri (Body)), Cỡ chữ (14), Kiểu chữ (đậm (B), nghiêng (I), gạch chân (U)), Màu chữ (A), và Công cụ gạch đầu dòng (Bullets).]
+Em hãy ghép mỗi mục ở cột *Nút lệnh* với một mục thích hợp ở *Cột Chức năng định dạng.*
+*Em có thể thay đổi phông chữ, cỡ chữ, kiểu chữ, màu chữ và định dạng dấu gạch đầu dòng cho phần văn bản đã chọn để trình bày bài trình chiếu rõ ràng và đẹp hơn.*
+Ví dụ về định dạng văn bản
+| Văn bản trước định dạng | Chọn nút lệnh | Kết quả |
+| Cảnh đẹp quê hương | B (In đậm) | **Cảnh đẹp quê hương** |
+| Cảnh đẹp quê hương | I (In nghiêng) | *Cảnh đẹp quê hương* |
+| Cảnh đẹp quê hương | U (Gạch chân) | <u>Cảnh đẹp quê hương</u> |
+| Cảnh đẹp quê hương | Màu chữ (Màu đỏ) | Cảnh đẹp quê hương (Chữ màu đỏ) |
+[Ví dụ về Định dạng gạch đầu dòng (Bullets)]
+| Văn bản trước định dạng | Kết quả sau khi dùng Bullets |,
+| Một số cảnh đẹp ở Huế / Sông Hương / Đồi Vọng Cảnh / Núi Ngự Bình / Cầu Trường Tiền / Điện Hòn Chén. | Một số cảnh đẹp ở Huế / * Sông Hương / * Đồi Vọng Cảnh / * Núi Ngự Bình / * Cầu Trường Tiền / * Điện Hòn Chén. |,
+| Nút lệnh | Chức năng định dạng |
+| 1) I | D) Kiểu chữ nghiêng |
+| 2) A (có màu) | E) Màu chữ |
+| 3) B | F) Kiểu chữ đậm |
+| 4) U | G) Kiểu chữ gạch chân |
+| 5) Biểu tượng Bullets | H) Gạch đầu dòng |
+| 6) 14 (Cỡ chữ) | I) Cỡ chữ |
+#### 2. THỰC HÀNH ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU
+##### NHIỆM VỤ: Em hãy mở tệp Cảnh dep que huong đã lưu ở Bài 7 và thực hiện các yêu cầu sau:
+a) Định dạng phông chữ, kiểu chữ, cỡ chữ và màu chữ cho văn bản trên trang chiếu theo mẫu sau:
+Hướng dẫn:
+*Bước 1: Khởi động phần mềm trình chiếu. Bước 2: Mở tệp trình chiếu Cảnh dep que huong đã lưu ở Bài 7.*
+Chọn lệnh Open trong bảng chọn File. Cửa sổ Open hiện ra tương tự như sau
+[Hình ảnh 31: **Mở tệp trình chiếu.** Mô tả các bước: 1. Chọn thư mục. 2. Chọn tệp trình chiếu. 3. Nháy chuột vào nút lệnh Open để mở.]
+b) Chọn mẫu gạch đầu dòng cho từng địa danh ở trang 2.
+c) Lưu tệp trình chiếu vào thư mục tên của em và thoát khỏi phần mềm.
+[Hình ảnh 30: **Các trang chiếu mẫu.** Trang 1: Phông chữ Times New Roman, cỡ chữ 60, kiểu chữ đậm, nghiêng. Trang 2: Phông chữ Arial, cỡ chữ 30, có gạch đầu dòng. Trang 3: Phông chữ Arial, cỡ chữ 30. Trang 4: Phông chữ Arial, cỡ chữ 50.]
+Thực hiện tương tự với phần văn bản khác trên các trang chiếu còn lại.
+*Lưu ý: Định dạng hoặc bỏ định dạng kiểu chữ đậm, nghiêng, gạch chân bằng cách nháy chuột vào nút lệnh tương ứng (B, I, U).*
+a) Để định dạng phông chữ, kiểu chữ, cỡ chữ và màu chữ cho văn bản trên trang chiếu em thực hiện các bước sau
+*Bước 1: Chọn phần văn bản cần định dạng.*
+*Bước 2: Định dạng văn bản: Nháy chuột vào nút lệnh hoặc nút mũi tên bên phải nút lệnh rồi chọn định dạng thích hợp.*
+[Hình ảnh 33: **Định dạng phông chữ, cỡ chữ, màu chữ.** Mô tả các bước: 1. Chọn phần văn bản. 2. Chọn kiểu chữ đậm (nút B). 3. Chọn phông chữ Times New Roman. 4. Chọn cỡ chữ 60. 5. Chọn màu chữ đỏ.]
+Chẳng hạn, định dạng cụm từ Cảnh đẹp quê hương ở trang 1 có thể thực hiện các thao tác như sau
+[Hình ảnh 32: **Thao tác chọn phần văn bản.** Mô tả: 1. Đặt con trỏ soạn thảo tại vị trí đầu phần văn bản. 2. Kéo thả chuột từ đầu đến vị trí cuối của phần văn bản.]
+VẬN DỤNG
+Mở tệp The thao trong thư mục tên em đã tạo ở phần Vận dụng Bài 7, sau đó định dạng lại phông chữ, kiểu chữ, cỡ chữ, màu chữ và thêm gạch đầu dòng theo ý muốn và lưu lại.
+b) Để chọn mẫu gạch đầu dòng ta thực hiện các thao tác sau
+[Hình ảnh 34: **Định dạng gạch đầu dòng.** Mô tả các bước: 1. Chọn phần văn bản. 2. Chọn nút lệnh Bullets. 3. Chọn mẫu gạch đầu dòng.]
+*Lưu ý: Sử dụng lệnh None để bỏ dấu gạch đầu dòng đã chọn.*
+c) Lưu tệp trình chiếu và thoát khỏi phần mềm
+*Bước 1: Nháy chuột vào nút lệnh* [Hình ảnh: Biểu tượng Save (đĩa mềm)] *để lưu tệp.*
+*Bước 2: Nháy chuột vào nút* [Hình ảnh: nút X (Close)] *để thoát khỏi phần mềm.*
+CỦNG CỐ
+1. Để cụm từ "Trường em" có kiểu đậm và nghiêng, em sử dụng nút lệnh nào?
+A. **[Biểu tượng B] và [Biểu tượng I]**
+B. [Biểu tượng B] và [Biểu tượng U]
+C. [Biểu tượng I] và [Biểu tượng U]
+2. Em hãy mở tệp Truong em đã tạo ở phần luyện tập của Bài 7 và định dạng văn bản theo yêu cầu sau
+- Tên trường: Phông chữ Times New Roman, cỡ chữ 50, màu xanh.
+- Địa chỉ: Phông chữ Times New Roman, cỡ chữ 30, màu đỏ.
+- Chú thích cho ảnh trường: Phông chữ Times New Roman, cỡ chữ 30, màu cam.
+- Hoạt động văn nghệ: Phông chữ Times New Roman, cỡ chữ 30, màu sắc tuỳ chọn, định dạng gạch đầu dòng.
+- Tình cảm của em với trường: Phông chữ Times New Roman, cỡ chữ 30, màu xanh.
+Khi thấy cô giáo trình chiếu bài học, đôi khi em thấy các trang chiếu được xuất hiện một cách ấn tượng và hấp dẫn. Làm thế nào để được như vậy nhỉ? Em hãy cùng tìm hiểu qua bài học này nhé.
+
+# BÀI 9
+#### HIỆU ỨNG CHUYỂN TRANG
+Sau bài này em sẽ: Q Sử dụng được một vài hiệu ứng chuyển trang đơn giản.
+##### KHỞI ĐỘNG
+#### 1. KHÁM PHÁ HIỆU ỨNG CHUYỂN TRANG
+Để trình chiếu ấn tượng và hấp dẫn hơn chúng ta có thể thêm **hiệu ứng chuyển trang**.
+**Hiệu ứng chuyển trang** là cách thức trang chiếu xuất hiện khi trình chiếu.
+Các bước để tạo hiệu ứng chuyển trang:
+*Bước 1:* Chọn trang chiếu muốn tạo hiệu ứng.
+*Bước 2:* Chọn một hiệu ứng chuyển trang trên nhóm lệnh **Transition to This Slide** của dải lệnh **Transitions**.
+[Hình ảnh 35: **Hiệu ứng chuyển trang** a) b)]
+[Hình ảnh 36: **Các hiệu ứng chuyển trang**]
+[Hình ảnh: **Chọn dải lệnh Transitions** (Chỉ vào dải lệnh Transitions)]
+[Hình ảnh: **Nháy nút này để xuất hiện danh sách các hiệu ứng** (Chỉ vào nút mũi tên xuống bên cạnh danh sách hiệu ứng)]
+[Hình ảnh: **Các kiểu hiệu ứng** (Chỉ vào các ô hiệu ứng chuyển trang)]
+[Hình ảnh: **Bỏ hiệu ứng** (Chỉ vào tùy chọn None)]
+Em có thể thêm hiệu ứng chuyển trang để bài trình chiếu ấn tượng và hấp dẫn hơn.
+*Lưu ý:* Hiệu ứng chuyển trang được đặt cho từng trang chiếu và mỗi trang chiếu chỉ sử dụng được một kiểu hiệu ứng duy nhất.
+#### HOẠT ĐỘNG Hiệu ứng chuyển trang
+Em hãy quan sát thầy cô trình chiếu và nhận xét về cách chuyển tiếp giữa các trang chiếu.
+Mỗi phát biểu dưới đây đúng hay sai?
+A. Mỗi trang chiếu có thể có nhiều kiểu hiệu ứng chuyển trang.
+B. Trong một bài trình chiếu có thể có nhiều hiệu ứng chuyển trang khác nhau.
+C. Hiệu ứng chuyển trang giúp cho bài thuyết trình sinh động và hấp dẫn hơn.
+
+#### 2. THỰC HÀNH TẠO HIỆU ỨNG CHUYỂN TRANG
+##### NHIỆM VỤ: Hãy mở tệp *Cảnh dep que huong* đã lưu ở Bài 8 và thêm các hiệu ứng chuyển trang theo những yêu cầu sau và lưu lại tệp trình chiếu.
+*Trang 1:* Dùng hiệu ứng chuyển trang **Push**.
+*Trang 2:* Dùng hiệu ứng chuyển trang **Flip**.
+*Trang 3:* Dùng hiệu ứng chuyển trang **Shape**.
+*Trang 4:* Dùng hiệu ứng chuyển trang **Box**.
+Hướng dẫn:
+*Bước 1:* Khởi động phần mềm trình chiếu.
+*Bước 2:* Chọn lệnh **Open** trong bảng chọn **File**. Cửa sổ **Open** hiện ra, chọn tệp *Cảnh dep que huong* trong thư mục tên của em.
+*Bước 3:* Chọn hiệu ứng chuyển trang.
+[Hình ảnh 37: **Chọn hiệu ứng chuyển trang.** Giao diện phần mềm trình chiếu. Vị trí 1 chỉ vào khung chọn trang chiếu. Vị trí 2 chỉ vào dải lệnh **Transitions**. Vị trí 3 chỉ vào nơi chọn một hiệu ứng trong nhóm Transition to This Slide.]
+*Lưu ý:* Một số hiệu ứng sẽ không xuất hiện sẵn trên dải lệnh **Transitions**, hãy nháy chuột vào nút [Hình ảnh: Biểu tượng mũi tên xuống] để xuất hiện danh sách hiệu ứng và chọn hiệu ứng thích hợp. Thực hiện tương tự để tạo hiệu ứng chuyển trang với các trang chiếu còn lại.
+*Bước 4:* Nhấn phím **F5** (hoặc nháy chuột vào nút lệnh [Hình ảnh: Nút lệnh trình chiếu] ) để trình chiếu và xem các hiệu ứng chuyển trang.
+*Bước 5:* Nháy chuột vào nút lệnh [Hình ảnh: Nút lệnh Save (biểu tượng đĩa mềm)] để lưu tệp.
+
+CỦNG CỐ
+1. Các nút lệnh của hiệu ứng chuyển trang nằm trên dải lệnh nào?
+A. Design.
+B. Animations.
+C. Home.
+D. **Transitions**.
+2. Em hãy thực hành các nhiệm vụ sau:
+a) Tạo bốn trang chiếu theo gợi ý sau đây để giới thiệu Hồ Hoàn Kiếm:
+[Hình ảnh 38: **Các trang chiếu gợi ý.** Gồm 4 trang: Trang 1 (Tiêu đề "Hồ Hoàn Kiếm", Tên, Lớp), Trang 2 (Nội dung văn bản "Hồ Hoàn Kiếm..."), Trang 3 (Hình ảnh Hồ Hoàn Kiếm, Tên, Địa chỉ), Trang 4 (Lời mời).]
+b) Tạo hiệu ứng cho các trang chiếu theo yêu cầu sau:
+*Trang 1:* Dùng hiệu ứng chuyển trang **Wipe**.
+*Trang 2:* Dùng hiệu ứng chuyển trang **Rotate**.
+*Trang 3:* Dùng hiệu ứng chuyển trang **Zoom**.
+*Trang 4:* Dùng hiệu ứng chuyển trang **Pan**.
+c) Lưu tệp với tên *Ho Hoan Kiem* vào thư mục tên của em đã tạo ở Bài 5.
+
+VẬN DỤNG
+1. Mở lại tệp *The thao* em đã lưu ở phần Vận dụng Bài 8, rồi chọn hiệu ứng chuyển trang theo ý muốn và lưu lại tệp trình chiếu.
+2. Em hãy tìm hiểu thêm về chức năng của nút lệnh [Hình ảnh: Biểu tượng Effect Options] khi tạo hiệu ứng chuyển trang.
+
+Trong những bài học trước, em đã soạn thảo văn bản tiếng Việt trong phần mềm trình chiếu. Văn bản của bài trình chiếu cần ngắn gọn, cô đọng,... để người nghe dễ nắm bắt thông tin. Khi em cần trình bày thông tin chi tiết hơn, chẳng hạn như làm một bài văn, viết một lá thư,... thì phần mềm trình chiếu không còn phù hợp. Vậy phần mềm nào là phù hợp? Bài học này sẽ giúp em trả lời câu hỏi đó.
+
+# BÀI 10
+#### PHẦN MỀM SOẠN THẢO VĂN BẢN
+Sau bài này em sẽ:
+Q Nhận biết được biểu tượng và khởi động được phần mềm soạn thảo văn bản.
+Q Soạn thảo được văn bản tiếng Việt có chữ hoa, có dấu.
+Q Chỉnh sửa được văn bản với các thao tác chọn, xoá.
+Q Lưu được văn bản vào thư mục theo yêu cầu.
+##### KHỞI ĐỘNG
+#### HOẠT ĐỘNG 1 Sử dụng phần mềm soạn thảo văn bản
+Em đã soạn thảo văn bản trên máy tính khi thực hiện công việc gì? Em đã dùng phần mềm nào để tạo ra văn bản?
+#### 1. KHÁI NIỆM SOẠN THẢO VĂN BẢN
+Có nhiều phần mềm soạn thảo văn bản khác nhau, chúng đều có điểm chung là có thể gõ, chỉnh sửa, trình bày và lưu văn bản. Màn hình làm việc của phần mềm soạn thảo văn bản được minh hoạ như sau:
+[Hình ảnh 39: **Màn hình làm việc của một phần mềm soạn thảo văn bản.** Màn hình hiển thị cửa sổ phần mềm, có các khu vực: Dải lệnh, Vùng soạn thảo, và Con trỏ soạn thảo.]
+Trong vùng soạn thảo, có **con trỏ soạn thảo** nhấp nháy. Khi em gõ phím, kí tự tương ứng sẽ xuất hiện tại vị trí con trỏ soạn thảo, con trỏ soạn thảo dịch về bên phải của kí tự.
+Chọn những câu ghép đúng. Trong phần mềm soạn thảo văn bản, em có thể:
+A. **Gõ và chỉnh sửa văn bản**.
+B. **Trình bày văn bản**.
+C. **Lưu văn bản**.
+D. Khám phá thế giới tự nhiên.
+
+#### 2. XÓA KÍ TỰ
+Khi soạn thảo văn bản, nếu em gõ chưa đúng, em có thể sửa lại.
+Nhấn phím **Delete** để xoá kí tự ở bên phải con trỏ soạn thảo.
+Nhấn phím **Backspace** để xoá kí tự ở bên trái con trỏ soạn thảo.
+Để xoá một phần văn bản, trước tiên em cần chọn phần văn bản đó, sau đó nhấn phím **Delete** hoặc **Backspace**.
+
+#### HOẠT ĐỘNG 2 Chỉnh sửa văn bản sau khi gõ
+Sau khi gõ xong đoạn văn bản, em phát hiện ra một vài chỗ gõ sai, em sẽ làm gì để được văn bản đúng?
+[Hình ảnh 40: **Xoá kí tự phía bên trái và bên phải con trỏ soạn thảo.** Minh họa: Văn bản "Cảnh đepm que em" sau khi nhấn Delete trở thành "Cảnh đep que em" (xoá 'm'). Văn bản "Cảnh đe p m que em" sau khi nhấn Backspace trở thành "Cảnh đe m que em" (xoá 'p').]
+[Hình ảnh 41: **Xoá phần văn bản được chọn.** Minh họa: 1. Chọn phần văn bản. 2. Nhấn phím Delete hoặc phím Backspace. Kết quả là phần văn bản "Cảnh đepm que em" được chọn đã bị xoá, còn lại "Cảnh que em".]
+Phần mềm soạn thảo văn bản giúp em gõ, chỉnh sửa, trình bày và lưu văn bản. Khi gõ phím, kí tự sẽ xuất hiện tại vị trí con trỏ soạn thảo.
+Phát biểu nào sau đây không đúng về thao tác xoá văn bản?
+A. Chọn phần văn bản rồi nhấn phím [Hình ảnh: Biểu tượng mũi tên sang trái/lùi lại] sẽ xoá phần văn bản được chọn.
+B. Nhấn phím **Delete** sẽ xoá kí tự bên phải con trỏ soạn thảo.
+C. Nhấn phím **Backspace** sẽ xoá kí tự bên trái con trỏ soạn thảo.
+D. Chọn phần văn bản rồi nhấn phím **Delete** hoặc **Backspace** để xoá phần văn bản được chọn.
+
+#### 3. THỰC HÀNH CÁC KHẢ NĂNG CƠ BẢN
+##### NHIỆM VỤ 1 Khởi động phần mềm và soạn thảo đoạn văn bản tiếng Việt sau:
+[Hình ảnh 42: **Soạn thảo văn bản tiếng Việt.** Văn bản hiển thị: "Từ xa nhìn lại, cây gạo sừng sững như một tháp đèn khổng lồ. Hàng ngàn bông hoa là hàng ngàn ngọn lửa hồng tươi. Hàng ngàn búp nõn là hàng ngàn ánh nến xanh. Trích bài Cây gạo - Võ Tú Nam - SGK Tiếng Việt 3 - Tập 2 (Bộ sách Kết nối tri thức với cuộc sống)".]
+Sau khi gõ xong hãy đọc lại đoạn văn bản và chỉnh sửa lại các chữ gõ sai.
+Hướng dẫn: (Những hướng dẫn sau đây sử dụng phần mềm Microsoft Word 2010 để minh hoạ).
+*Bước 1:* Quan sát trên màn hình nền để nhận biết biểu tượng [Hình ảnh: Biểu tượng phần mềm soạn thảo văn bản Word (chữ W màu xanh dương)] của phần mềm soạn thảo văn bản Word.
+*Bước 2:* Nháy đúp chuột vào biểu tượng trên để khởi động phần mềm. Quan sát màn hình để nhận biết các thành phần của màn hình làm việc như minh hoạ trong Hình 39.
+*Bước 3:* Nháy chuột vào vùng soạn thảo để chắc chắn con trỏ soạn thảo đang nhấp nháy. Gõ đoạn văn bản vào vùng soạn thảo như minh hoạ trong Hình 42.
+Em có thể xoá từng kí tự hoặc nguyên phần văn bản bằng cách sử dụng phím **Delete** hoặc phím **Backspace**.
+*Lưu ý:* Nhấn phím **Enter** khi muốn xuống dòng và chuyển sang đoạn văn bản mới. Nhấn phím **Shift** đồng thời gõ phím chữ khi muốn gõ chữ hoa.
+*Bước 4:* Xem lại đoạn văn bản đã gõ, nếu thấy có chữ gõ sai, em hãy di chuyển con trỏ soạn thảo đến vị trí đó để xoá kí tự và gõ lại cho đúng.
+
+##### NHIỆM VỤ 2 Lưu tệp văn bản vào thư mục của em với tên phù hợp.
+Hướng dẫn:
+*Bước 1:* Chọn lệnh **Save** trong bảng chọn **File**, cửa sổ **Save As** hiện ra. Em thực hiện các thao tác lưu tệp tương tự như trong phần mềm trình chiếu.
+*Lưu ý:* Máy tính mặc định lấy các chữ đầu tiên trong văn bản làm tên tệp. Em có thể gõ tên *CayGao* để lưu tệp.
+*Bước 2:* Nháy vào nút [Hình ảnh: Nút X (Close)] ở góc trên bên phải màn hình làm việc của phần mềm Word để đóng và thoát khỏi phần mềm.
+
+CỦNG CỐ
+1. Biểu tượng nào là biểu tượng của phần mềm soạn thảo văn bản?
+A. [Hình ảnh: Biểu tượng] B. [Hình ảnh: Biểu tượng] C. [Hình ảnh: Biểu tượng] D. [Hình ảnh: Biểu tượng]
+2. Em hãy khởi động phần mềm soạn thảo văn bản và soạn thảo khổ thơ sau đây. Hãy lưu tệp với tên là *Bai1* vào thư mục tên của em.
+Trăng ơi... từ đâu đến? (Theo Trần Đăng Khoa)
+Trăng ơi... từ đâu đến?
+Hay từ cánh rừng xa
+Trăng tròn như quả chín
+Lửng lơ lơ trước nhà.
+
+VẬN DỤNG
+Em hãy sử dụng phần mềm soạn thảo văn bản để soạn thảo đoạn văn miêu tả một người, một loài cây hoặc con vật mà em yêu thích. Lưu văn bản vào thư mục của em với tên phù hợp.
+
+# BÀI 11
+#### CHỈNH SỬA VĂN BẢN
+Sau bài này em sẽ:
+Q Mở được tệp có sẵn, lưu được tệp với tên khác.
+Q Chỉnh sửa được văn bản với các thao tác sao chép, di chuyển một phần văn bản.
+Q Đưa được hình ảnh vào văn bản.
+##### KHỞI ĐỘNG
+Khi sưu tầm thơ hay về cảnh đẹp quê hương, An rất thích bài thơ "Trăng ơi...từ đâu đến?" của nhà thơ Trần Đăng Khoa.
+
+#### 1. MỞ TỆP, SAO CHÉP VÀ DI CHUYỂN PHẦN VĂN BẢN
+Khi soạn thảo văn bản trên máy tính có những phần văn bản lặp lại, em chỉ cần gõ một lần rồi **sao chép** để có những phần giống nhau mà không cần gõ lại.
+Ví dụ: Câu *Trăng ơi...từ đâu đến?* ở bài thơ trên được lặp lại nhiều lần, em có thể sử dụng thao tác sao chép để soạn thảo nhanh hơn.
+
+#### HOẠT ĐỘNG So sánh khổ thơ
+Em hãy đọc và quan sát hai khổ thơ trong Hình 43. Câu thơ nào được lặp lại nhiều lần? Theo em, trong phần mềm soạn thảo văn bản, có cách nào để soạn thảo các phần văn bản giống nhau mà không phải gõ nhiều lần?
+[Hình ảnh 43: **Minh hoạ phần văn bản được lặp lại.** Khổ thơ thứ nhất: Trăng ơi... từ đâu đến? (Theo Trần Đăng Khoa). Khổ thơ thứ hai: Trăng ơi... từ đâu đến? Hay từ cánh rừng xa / Trăng hồng như quả chín / Lửng lơ lơ trước nhà.]
+[Hình ảnh 44: **Sao chép phần văn bản.** Minh họa: Khổ thơ thứ nhất: Trăng ơi... từ đâu đến? Khổ thơ thứ hai: Trăng ơi... từ đâu đến? Hay từ cánh rừng xa / Trăng hồng như quả chín / Lửng lơ lơ trước nhà.]
+Có những trường hợp phần văn bản để ở vị trí chưa hợp lí, em có thể **di chuyển** phần văn bản đó đến vị trí hợp lí mà không cần phải gõ lại. Ví dụ, di chuyển phần văn bản *(Theo Trần Đăng Khoa)* đến vị trí cuối đoạn thơ.
+Trong Hình 43, hình ảnh ảnh trăng đã được **chèn vào văn bản** để minh hoạ cho bài thơ *Trăng ơi... từ đâu đến?*. Tương tự như tạo bài trình chiếu, em có thể chèn hình ảnh phù hợp để văn bản thêm sinh động và hấp dẫn. Các thao tác chèn hình ảnh trong phần mềm soạn thảo văn bản sẽ được hướng dẫn trong phần thực hành.
+Hãy ghép mỗi thao tác ở cột A với một mô tả ở cột B cho phù hợp:
+| A | B |
+| :---: | :---: |
+| 1) Sao chép | E) Tạo thêm phần văn bản ở vị trí khác giống hệt phần đã chọn. |
+| 2) Di chuyển | F) Đưa phần văn bản từ vị trí cũ đến vị trí mới. |
+| 3) Chèn hình ảnh | D) Minh hoạ cho nội dung văn bản thêm sinh động và hấp dẫn. |
+
+#### 2. THỰC HÀNH
+##### NHIỆM VỤ Em thực hiện các yêu cầu sau:
+a) Mở tệp *Bai1* trong thư mục tên của em đã tạo ở phần Luyện tập của Bài 10.
+b) Sao chép văn bản, gõ thêm câu thơ, di chuyển văn bản để được kết quả như minh hoạ trong Hình 43.
+c) Chèn hình ảnh phù hợp vào văn bản. Lưu tệp với tên mới là *Bai2*.
+[Hình ảnh 45: **Di chuyển phần văn bản đến vị trí mới.** Văn bản hiển thị hai khổ thơ. Khổ 1: Trăng ơi... từ đâu đến?. Khổ 2: Trăng ơi... từ đâu đến? Hay từ cánh rừng xa / Trăng hồng như quả chín / Lửng lơ lơ trước nhà. Dưới cùng có ghi "Theo Trần Đăng Khoa".]
+Em có thể sử dụng các thao tác sao chép, di chuyển một phần văn bản để soạn thảo nhanh và hợp lí. Em cũng có thể chèn thêm hình ảnh để văn bản sinh động và hấp dẫn hơn.
+Hướng dẫn
+a) Mở tệp *Bai1*
+*Bước 1:* Khởi động phần mềm soạn thảo văn bản Word.
+*Bước 2:* Chọn lệnh **Open** trong bảng chọn **File**. Cửa sổ **Open** mở ra. Thực hiện lần lượt các thao tác tương tự như sau để mở tệp *Bai1*:
+[Hình ảnh 46: **Mở tệp văn bản đã có trên máy tính.** Minh họa 3 bước: 1. Chọn thư mục chứa tệp văn bản. 2. Chọn tệp văn bản (Bai1). 3. Nháy chuột vào nút lệnh Open.]
+b) Sao chép văn bản, gõ thêm câu thơ, di chuyển văn bản
+*Bước 1:* Em hãy thực hiện các thao tác sau để **sao chép** câu *Trăng ơi... từ đâu đến?* cho khổ thơ thứ hai của bài thơ:
+[Hình ảnh: Minh họa thao tác sao chép phần văn bản. 1. Chọn đoạn văn bản cần sao chép (Chữ "Trăng ơi... từ đâu đến?" được chọn). 2. Nháy chuột vào nút lệnh Copy (Biểu tượng hai tờ giấy chồng lên nhau). 3. Đưa con trỏ soạn thảo đến vị trí cần sao chép.]
+[Hình ảnh 47: **Sao chép phần văn bản.** Minh họa 4 bước: 1. Chọn đoạn văn bản cần sao chép. 2. Nháy chuột vào nút lệnh Copy. 3. Đưa con trỏ soạn thảo đến vị trí cần sao chép. 4. Nháy chuột vào nút lệnh Paste (Biểu tượng cái kẹp giấy).]
+*Bước 2:* Gõ tiếp ba dòng cuối của khổ thơ thứ hai.
+*Bước 3:* **Di chuyển** cụm từ *(Theo Trần Đăng Khoa)* xuống cuối khổ thơ thứ hai. Thực hiện tương tự như Bước 1, nhưng thay nút lệnh **Copy** [Hình ảnh: Biểu tượng Copy] bằng nút lệnh **Cut** [Hình ảnh: Biểu tượng Cut (cái kéo)] ở thao tác 2.
+c) Chèn hình ảnh phù hợp vào văn bản và lưu tệp với tên mới là *Bai2*.
+*Bước 1:* Đặt con trỏ soạn thảo vào vị trí cuối dòng *(Theo Trần Đăng Khoa)* và nhấn phím **Enter**.
+*Bước 2:* Chọn nút lệnh **Picture** [Hình ảnh: Biểu tượng Picture] trong dải lệnh **Insert**. Cửa sổ **Insert Picture** mở ra. Thực hiện thao tác sau để chèn ảnh minh hoạ:
+[Hình ảnh 48: **Chèn ảnh vào văn bản.** Minh họa 3 bước: 1. Chọn thư mục chứa tệp hình ảnh. 2. Chọn tệp hình ảnh. 3. Nháy chuột vào nút lệnh Insert.]
+Kết quả văn bản được minh hoạ như Hình 49.
+[Hình ảnh 49: **Kết quả chèn hình ảnh.** Văn bản hiển thị hai khổ thơ: Khổ 1: Trăng ơi... từ đâu đến? / Trăng ơi... từ đâu đến? Hay từ cánh rừng xa / Trăng hồng như quả chín / Lửng lơ lơ trước nhà. Khổ 2: Trăng ơi... từ đâu đến? / Hay biển xanh diệu kì / Trăng tròn như mắt cá / Chẳng bao giờ chớp mi. Cuối cùng là dòng "Theo Trần Đăng Khoa" và bên dưới là hình ảnh minh họa.]
+*Lưu ý:* Thay đổi kích thước hình ảnh thực hiện tương tự như trong phần mềm trình chiếu.
+*Bước 3:* Chọn lệnh **Save As** trong bảng chọn **File**. Cửa sổ **Save As** xuất hiện, em thực hiện các thao tác sau để lưu với tên mới là *Bai2*:
+[Hình ảnh 50: **Lưu tệp với tên mới.** Minh họa 2 bước: 1. Nhập tên mới là Bai2. 2. Nháy chuột vào nút lệnh Save.]
+
+CỦNG CỐ
+1. Em hãy ghép mỗi biểu tượng ở cột A với ý nghĩa của chúng ở cột B cho phù hợp.
+| A | B |
+| :---: | :---: |
+| 1) [Hình ảnh: Con trỏ chuột hình chữ I (soạn thảo)] | D) Hình ảnh của con trỏ chuột khi bắt đầu thao tác chọn văn bản. |
+| 2) [Hình ảnh: Biểu tượng Copy (hai tờ giấy chồng lên nhau)] | E) Lệnh sao chép phần văn bản được chọn. |
+| 3) [Hình ảnh: Biểu tượng Paste (cái kẹp giấy)] | F) Lệnh dán phần văn bản đã cắt hoặc sao chép. |
+| 4) [Hình ảnh: Biểu tượng Cut (cái kéo)] | G) Lệnh cắt phần văn bản được chọn. |
+2. Em hãy quan sát ba khổ thơ sau:
+Ai trồng cây
+Người ấy có bóng mát
+Trong vòm cây
+Quên nắng xa đường dài.
+Ai trồng cây
+Người ấy có hạnh phúc
+Mong chờ cây
+Mau lớn lên từng ngày.
+Ai trồng cây...
+Em trồng cây...
+Em trồng cây...
+(Theo Bế Kiến Quốc)
+a) Những từ nào lặp lại nhiều lần? Em dùng cách nào để không phải gõ lại những từ này?
+b) Hãy gõ những khổ thơ trên vào phần mềm soạn thảo văn bản.
+c) Hãy chèn hình ảnh minh hoạ cho bài thơ.
+d) Hãy lưu tệp văn bản với tên *Bai3* vào thư mục tên của em.
+3. Em hãy nêu sự khác nhau của hai thao tác sao chép và di chuyển đối với phần văn bản được chọn.
+
+VẬN DỤNG
+Em hãy mở lại tệp đã lưu ở phần Vận dụng Bài 10 và chèn thêm hình ảnh phù hợp vào văn bản. Lưu lại tệp văn bản với tên mới.
+
+# BÀI 12A
+#### THỰC HÀNH ĐA PHƯƠNG TIỆN
+Sau bài này em sẽ:
+Q Nêu được ví dụ minh hoạ việc sử dụng phần mềm máy tính hoặc video giúp biết thêm những thông tin sinh động về lịch sử, văn hoá.
+Q Kể lại được điều quan sát và biết thêm qua sử dụng công cụ đa phương tiện.
+##### KHỞI ĐỘNG
+An: Minh ơi! Bạn cho tớ mượn cuốn Truyện cổ tích Việt Nam.
+Minh: Tớ có thể giới thiệu với bạn cả một kho khổng lồ những video truyện cổ tích.
+An: Thế thì tốt biết bao vì video không chỉ có chữ mà còn có tiếng và hình ảnh chuyển động nữa.
+Minh: Video hay những quảng cáo, bài trình chiếu,... trên máy tính sử dụng nhiều dạng thông tin như thế được gọi là **đa phương tiện**.
+An: Xem truyện bằng đa phương tiện thật là sinh động. Nhưng xem như thế nào?
+Minh: Tớ sẽ chỉ cho bạn cách xem video bằng cách sử dụng những ứng dụng trên máy tính. Xem xong, bạn nhớ kể lại cho tớ những điều mà bạn thấy thú vị nhé.
+
+##### NHIỆM VỤ 1 Em nhận được một video do thầy cô giáo cung cấp về ngày Tết Nguyên Đán. Em hãy xem video để biết ý nghĩa của ngày Tết, đặc trưng của phong tục đón Tết của ba miền Bắc - Trung - Nam và kể lại những điều mà em mới biết qua video đó.
+Hướng dẫn: (Những hướng dẫn sau đây sử dụng phần mềm **Windows Media Player** để minh hoạ).
+*Bước 1:* Trước khi xem video.
+- Kiểm tra để đảm bảo trên máy tính đã có video cần xem về chủ đề Tết ba miền.
+- Suy nghĩ về những niềm vui trong ngày Tết Nguyên đán và sẵn sàng tìm thấy những điểm mới lạ với em về phong tục đón Tết như món ăn ngày Tết, mâm ngũ quả, loại hoa ngày Tết, hoạt động và trò chơi trong ngày Tết, lời nói và hành vi trong ngày Tết,....
+*Bước 2:* Mở video *Tết ba miền*.
+- Nháy nút phải chuột vào biểu tượng video *Tết ba miền* trên màn hình nền.
+- Chọn **Open with -> Windows Media Player**.
+*Bước 3:* Xem video trên **Windows Media Player**.
+- Sử dụng một số nút điều khiển trên phần mềm **Windows Media Player** để xem video.
+[Hình ảnh 52: **Một số nút điều khiển trên Windows Media Player.** Các nút bao gồm: Phát video, Tự động chạy lặp lại.]
+[Hình ảnh 51: **Cách mở video trong Windows Media Player.** Minh họa giao diện mở video, hiển thị các nút: Bật - tắt âm thanh, Điều chỉnh âm thanh, Tạm dừng video, Xem đoạn video đã qua, Xem đoạn video sắp đến.]
+- Xem video. Lưu ý những chi tiết, những phong tục mới lạ, gây ấn tượng để kể lại cho mọi người nghe.
+*Bước 4:* Kể lại chi tiết ấn tượng về phong tục đón Tết.
+- Kể lại những điểm khác nhau về phong tục đón Tết giữa nơi em đang sống và ở những nơi mà em xem được trong video.
+- Nhấn mạnh hơn đến những chi tiết mà em thấy mới mẻ và thú vị qua đoạn video được xem, như món ăn, loại hoa quả, trò chơi, bài hát, thói quen,....
+
+##### NHIỆM VỤ 2 Em nhận được một video do thầy cô giáo cung cấp về truyền thuyết các đời vua Hùng. Em hãy xem video để cảm nhận và kể lại những điều mà em thấy mới mẻ, thú vị trong video đó.
+Hướng dẫn:
+*Bước 1:* Trước khi xem video.
+- Kiểm tra để đảm bảo trên máy tính đã có video cần xem về một truyền thuyết của thời kì các vua Hùng. Chẳng hạn, video *Sự tích quả dưa hấu*.
+*Bước 2:* Mở video *Sự tích quả dưa hấu*. Tương tự như video *Tết ba miền*, chọn **Open with -> Windows Media Player**.
+*Bước 3:* Xem video *Sự tích quả dưa hấu*.
+- Xem video. Lưu ý nội dung và ý nghĩa của câu chuyện hoặc những chi tiết mới mẻ, gây ấn tượng để kể lại cho mọi người nghe.
+- Em có thể sử dụng các nút điều khiển để xem lại từng đoạn video.
+*Bước 4:* Kể lại *Sự tích quả dưa hấu*. Kể lại nội dung câu chuyện *Sự tích quả dưa hấu* hoặc những điều thú vị, mới mẻ mà em thấy trong video được xem như hình ảnh, việc làm của các nhân vật, kết quả của sự chăm chỉ lao động,....
+[Hình ảnh 53: **Biểu tượng video Sự tích quả dưa hấu**]
+
+CỦNG CỐ
+1. Em hãy nêu tên một video cho em biết về truyền thống chống giặc ngoại xâm của dân tộc ta. Hãy kể lại nội dung hoặc những điều mới mẻ em biết được qua video đó.
+2. Em đã sử dụng ứng dụng nào trên máy tính hoặc trên điện thoại thông minh để theo dõi các video?
+
+VẬN DỤNG
+Em hãy kể tên một sản phẩm đa phương tiện, giới thiệu về sự kiện lịch sử hoặc đặc điểm văn hoá của quê hương em.
+
+# BÀI 12B
+#### PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM
+Sau bài này em sẽ:
+Q Làm quen với giao diện của phần mềm luyện gõ và tập gõ được theo yêu cầu thấp nhất. Gõ được chữ hoa, các dấu và các số.
+Q Nhận thấy được phần mềm có thể giúp tập gõ đúng cách, có thể chọn được bài tập phù hợp bằng hệ thống bảng chọn và các thông báo.
+##### KHỞI ĐỘNG
+Khoa: Minh ơi, tớ thấy trên bàn phím có nhiều phím có hai kí tự nhưng tớ chỉ gõ được một kí tự ở dưới thôi, cậu giúp tớ nhé.
+Minh: Ồ, tớ sẽ hướng dẫn cho cậu. Năm nay, tớ thường xuyên luyện tập với phần mềm gõ bàn phím nên tớ biết sử dụng đấy. Chúng mình cùng luyện tập nhé.
+[Hình ảnh 54: **Các phím có hai kí tự.** Mô tả phím có kí tự 'c', phím có kí tự '>' (kí tự trên) và kí tự '.' (kí tự dưới), phím có kí tự '?' (kí tự trên) và kí tự '/' (kí tự dưới). Kí tự trên và Kí tự dưới được chú thích.]
+Bài học này sẽ sử dụng phần mềm **Kiran's Typing Tutor** để minh hoạ.
+
+##### NHIỆM VỤ 1 Luyện gõ chữ hoa với bài học **Capitals**.
+Hướng dẫn:
+*Bước 1:* Mở phần mềm **Kiran's Typing Tutor**. Chọn nút lệnh **Kids Typing** trên màn hình chính.
+*Bước 2:* Trong mục **Course**, chọn bài học **Capitals** (chữ hoa).
+*Bước 3:* Nhấn giữ phím **Shift** đồng thời gõ phím chữ tương ứng chữ hoa xuất hiện trên màn hình. Ví dụ: Muốn gõ chữ **H**, em cần dùng ngón út của tay trái nhấn giữ phím **Shift** đồng thời ngón giữa của tay phải gõ phím **H**.
+*Bước 4:* Nháy vào nút lệnh [Hình ảnh: Nút lệnh Exit/Back (Mũi tên cong)] để về màn hình chính.
+
+##### NHIỆM VỤ 2 Luyện gõ từ với bài học **Words**.
+Hướng dẫn:
+*Bước 1:* Chọn nút lệnh **Kids Typing** trên màn hình chính.
+*Bước 2:* Trong mục **Course**, chọn bài học **Words**.
+[Hình ảnh 55: **Chọn bài học.** Màn hình chọn bài học trong phần mềm Kiran's Typing Tutor, hiển thị danh sách bài học (Capital, Words, Sentences).]
+*Bước 3:* Luyện gõ các từ trong bài học **Words**. Nếu em gõ sai nhiều sẽ có thông báo như sau:
+[Hình ảnh 57: **Thông báo gõ sai.** Hộp thoại thông báo: "You made too many mistakes in this lesson. Try again or quit? (Bạn đã mắc quá nhiều lỗi trong bài học này. Thử lại hay thoát?)", kèm nút OK và Cancel.]
+[Hình ảnh 56: **Luyện gõ từ.** Màn hình giao diện luyện gõ từ, hiển thị từ cần gõ và vị trí ngón tay.]
+Khi đó em hãy nháy vào nút lệnh **OK** hoặc nhấn phím **Enter** để gõ tiếp.
+*Bước 4:* Nháy vào nút lệnh [Hình ảnh: Nút lệnh Exit/Back (Mũi tên cong)] để về màn hình chính.
+
+##### NHIỆM VỤ 3 Luyện gõ 10 ngón các kí tự trên của hàng phím số trong mục **Typing Practice**. Đóng bài luyện tập và thoát khỏi phần mềm.
+Hướng dẫn
+*Bước 1:* Chọn nút lệnh **Typing Practice** [Hình ảnh: Biểu tượng Typing Practice] trên màn hình chính.
+*Bước 2:* Trong mục **Course**, chọn bài học **NumericKeys - Qwerty**.
+[Hình ảnh 58: **Chọn bài học.** Màn hình chọn bài học Typing Practice, hiển thị danh sách bài học (Numeric Keys - Qwerty).]
+*Bước 3:* Chọn các bài luyện tập nhỏ từ số 31 để luyện gõ các kí tự trên của hàng phím số. Khi đó, em có thể quan sát màn hình và thực hiện theo chỉ dẫn của phần mềm để gõ phím nhanh, chính xác.
+[Hình ảnh 59: **Các chỉ dẫn khi gõ phím.** Màn hình luyện tập, hiển thị các chú thích: Chọn bài luyện tập nhỏ, Kí tự gõ sai màu đỏ, Phím cần gõ có màu xanh, Ngón tay gõ có chấm đỏ.]
+*Lưu ý:* Với các phím có hai kí tự, muốn có kí tự trên của phím như !, @, #, $, %, ^, &, *, (, ), _, +, ... em nhấn giữ phím **Shift** khi gõ. Nếu cần gõ các kí tự trên do tay phải phụ trách thì ngón út tay trái sẽ nhấn giữ phím **Shift** và ngược lại.
+*Bước 4:* Nháy chuột vào nút lệnh [Hình ảnh: Nút lệnh Exit/Back (Mũi tên cong)] để về màn hình chính. Nháy chuột tiếp vào nút lệnh [Hình ảnh: Nút lệnh Exit (Cửa ra)] để thoát khỏi phần mềm.
+
+CỦNG CỐ
+1. Muốn gõ chữ hoa, em sử dụng phím nào sau đây?
+A. Tab. B. **Shift**. C. Ctrl. D. Alt.
+2. Trên bàn phím có hai phím **Shift** bên trái và bên phải, các phím có hai kí tự nằm ở hai khu vực như Hình 60.
+[Hình ảnh 60: **Các phím có kí tự trên.** Mô tả bàn phím (QWERTY) được chia thành 2 khu vực (1 và 2) đối xứng qua trục dọc, hiển thị các phím có 2 kí tự.]
+Muốn gõ các kí tự trên ở khu vực 2, em sử dụng phím **Shift** nào?
+A. **Phím Shift bên trái**. B. Phím Shift bên phải.
+3. Mở chương trình **Kiran's Typing Tutor**, chọn nút lệnh **Kids Typing** và chọn bài học **Colours** để luyện gõ các từ chỉ màu sắc.
+
+VẬN DỤNG
+Hãy mở phần mềm **Kiran's Typing Tutor** và chọn bài luyện tập gõ hàng phím số.
+
+### CHỦ ĐỀ 6. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+# BÀI 13
+#### CHƠI VỚI MÁY TÍNH
+Sau bài này em sẽ:
+Q Nhận ra được chương trình máy tính qua các trò chơi.
+Q Nhận biết được các vùng cơ bản trong cửa sổ lập trình trực quan.
+Q Thực hiện được một số thao tác cơ bản: mở, chạy chương trình và đóng phần mềm.
+##### KHỞI ĐỘNG
+Trò chơi: **Điều khiển rô-bốt**.
+Chuẩn bị: Trò chơi tiến hành theo cặp. Với mỗi cấp, một bạn đóng vai rô-bốt, một bạn đưa ra chỉ dẫn để rô-bốt thực hiện. Biết rằng rô-bốt có khả năng: đi về phía trước từng bước, quay trái hoặc phải một góc 90 độ.
+Cách chơi: Mỗi cấp thực hiện trong thời gian 2 phút. Trong lúc chơi, một học sinh ghi lại các lệnh của mỗi cấp lên bảng.
+- Học sinh 1: Lần lượt đưa ra chỉ dẫn để rô-bốt thực hiện.
+- Học sinh 2: Đóng vai rô-bốt, thực hiện theo chỉ dẫn của học sinh 1.
+[Hình ảnh 61: **Trò chơi “Điều khiển rô-bốt".** Minh họa hai học sinh tham gia trò chơi. Học sinh nam đóng vai rô-bốt đang thực hiện các chuyển động theo hướng dẫn của học sinh nữ.]
+Kết quả: Cặp đôi thắng cuộc là cặp đôi thực hiện được nhiều chỉ dẫn chính xác hơn trong thời gian quy định.
+
+#### HOẠT ĐỘNG Điều khiển nhân vật trong máy tính
+Nếu rô-bốt là một nhân vật trong máy tính thì em điều khiển nhân vật này bằng cách nào?
+#### 1. CHƯƠNG TRÌNH MÁY TÍNH
+Trong hoạt động khởi động, bạn học sinh đóng vai rô-bốt thực hiện hành động là do hiểu được những chỉ dẫn bằng lời nói của bạn cùng chơi. Nếu rô-bốt là một nhân vật trong máy tính, em cần phải sử dụng một ngôn ngữ riêng, phù hợp để chỉ dẫn cho nhân vật đó. Đó là **ngôn ngữ lập trình**. Mỗi chỉ dẫn trong ngôn ngữ lập trình được gọi là một **câu lệnh**.
+Các trò chơi trên máy tính được tạo ra bằng cách viết chương trình trong một ngôn ngữ lập trình. Chương trình gồm các câu lệnh được sắp xếp theo thứ tự xác định.
+Hình 62 cho em thấy sự tương ứng giữa chỉ dẫn hoạt động (Hình 62a) và câu lệnh trong ngôn ngữ lập trình **Scratch** (Hình 62b).
+[Hình ảnh 62: **Chương trình máy tính.** a) Chỉ dẫn hoạt động: 1. Di chuyển 100 bước. 2. Quay trái 90 độ. 3. Dừng lại 1 giây. b) Khối lệnh trong Scratch: 13. Nói "Xin chào các bạn!". 4. Di chuyển 100 bước. 5. Quay trái 90 độ. 6. Dừng lại 1 giây. 7. Di chuyển 100 bước. 8. Quay trái 90 độ. 9. Dừng lại 1 giây. 10. Di chuyển 100 bước. 11. Quay trái 90 độ. 12. Dừng lại 1 giây.]
+[Hình ảnh: Chương trình, Nhân vật, Chỉ dẫn]
+
+#### 2. THỰC HÀNH CHƠI VỚI MÁY TÍNH
+##### NHIỆM VỤ 1 Khởi động phần mềm **Scratch**, chọn hiển thị tiếng Việt, mở tệp chương trình, quan sát và nhận biết màn hình **Scratch**.
+Hướng dẫn:
+*Bước 1:* Nháy đúp chuột vào biểu tượng [Hình ảnh: Biểu tượng phần mềm Scratch (hình chú mèo)] trên màn hình nền để khởi động phần mềm **Scratch**.
+*Bước 2:* Nháy chuột vào biểu tượng quả địa cầu [Hình ảnh: Biểu tượng quả địa cầu] ở góc trên bên trái màn hình và chọn một ngôn ngữ, chẳng hạn ngôn ngữ Tiếng Việt.
+*Bước 3:* Nháy chuột chọn **Tệp tin** và chọn lệnh **Mở từ máy tính**. Mở tệp chương trình trò chơi *Điều khiển rô-bốt* có tên là *Robot*. Khi đó màn hình của phần mềm **Scratch** sẽ xuất hiện như Hình 63. Em hãy quan sát và nhận biết các thành phần của màn hình.
+[Hình ảnh 63: **Màn hình của phần mềm Scratch.** Giao diện làm việc của Scratch, hiển thị các khu vực: Các nhóm lệnh cơ bản (bên trái), Vùng tạo chương trình (ở giữa), Sân khấu (bên phải), Nhân vật trên sân khấu (chú mèo), Vùng tạo nhân vật, Vùng tạo phông nền sân khấu. Các nút lệnh quan trọng: Nút cờ xanh (Bắt đầu chạy), Nút lệnh dừng chương trình (Dừng). Bên cạnh là mô tả các thành phần: Các nhóm lệnh cơ bản, Vùng tạo chương trình, Sân khấu, Vùng tạo nhân vật, Vùng tạo phông nền sân khấu, Nhân vật trên sân khấu, Nút cờ xanh, Nút lệnh dừng chương trình, Các lệnh thuộc nhóm "Chuyển động".]
+Nếu thực hiện theo các chỉ dẫn ở Hình 62a, bạn học sinh sẽ đi như thế nào?
+A. Đi thẳng.
+B. Đi theo một hình tam giác.
+C. **Đi theo một hình vuông**.
+D. Đi theo một hình tròn.
+
+##### NHIỆM VỤ 2 Chạy chương trình, thoát khỏi phần mềm **Scratch**.
+Hướng dẫn:
+*Bước 1:* Nháy chuột vào khối lệnh hoặc nút lệnh cờ xanh [Hình ảnh: Biểu tượng cờ xanh] để chạy chương trình.
+*Bước 2:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng dừng (hình lục giác đỏ)] để dừng chương trình.
+*Bước 3:* Em có thể nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng Try Again/Reload (Mũi tên hình tròn)] để tiếp tục lượt chơi khác.
+*Bước 4:* Nháy chuột vào nút [Hình ảnh: Nút X (Close)] ở góc trên bên phải của màn hình **Scratch** và chọn **Leave** để thoát khỏi phần mềm.
+
+CỦNG CỐ
+1. Chọn câu đúng trong các câu sau:
+a) **Em có thể dùng ngôn ngữ lập trình Scratch để diễn tả từng bước thực hiện một trò chơi trên máy tính**.
+b) **Các câu lệnh của Scratch được sắp xếp theo một thứ tự nhất định tạo thành một chương trình máy tính**.
+c) Máy tính không thể thực hiện trò chơi.
+d) **Trong Scratch các lệnh của chương trình máy tính có thể được thể hiện bằng ngôn ngữ tiếng Việt**.
+2. Em hãy ghép mỗi biểu tượng ở cột A với ý nghĩa của chúng ở cột B cho thích hợp:
+| A | B |
+| :---: | :---: |
+| 1) [Hình ảnh: Biểu tượng phần mềm Scratch (hình chú mèo)] | D) Biểu tượng phần mềm **Scratch**. |
+| 2) [Hình ảnh: Biểu tượng dừng (hình lục giác đỏ)] | E) Dừng chương trình. |
+| 3) [Hình ảnh: Biểu tượng quả địa cầu] | F) Chọn ngôn ngữ hiển thị. |
+3. Em hãy thực hành trò chơi rô-bốt nhiều lần để luyện tập thành thạo các thao tác chạy chương trình trong **Scratch**.
+
+VẬN DỤNG
+Em hãy vận dụng các bước hướng dẫn của bài học để mở tệp *Trochoi* trên máy tính, chạy chương trình và chơi trò chơi.
+
+# BÀI 14
+#### KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN
+Sau bài này em sẽ:
+Q Nhận biết được nhóm lệnh và các lệnh thuộc nhóm lệnh.
+Q Thực hiện được các thao tác cơ bản: kéo thả lệnh, xoá lệnh, ghép các lệnh thành khối lệnh.
+Q Tự thiết lập và tạo được chương trình đơn giản.
+##### KHỞI ĐỘNG
+Sau khi thực hiện trò chơi *Điều khiển rô-bốt* trên máy tính ở Bài 13, bạn An rất muốn biết cách tạo ra chương trình. Chắc em cũng có mong muốn tạo ra chương trình đó phải không? Bài học này sẽ giúp em thực hiện điều đó.
+
+#### HOẠT ĐỘNG Nhận biết các lệnh trong các nhóm lệnh
+Quan sát màn hình **Scratch**, em có thể nhìn thấy những nhóm lệnh nào? Hãy nhận xét màu sắc của nhóm lệnh *Chuyển động* và màu sắc của các lệnh trong nhóm đó.
+
+#### 1. KHÁI QUÁT VỀ CÁC NHÓM LỆNH
+Trong phần mềm **Scratch**, mỗi nhóm lệnh cơ bản và các lệnh thuộc nhóm đó có cùng màu sắc. Ví dụ, nhóm lệnh **Chuyển động** [Hình ảnh: Biểu tượng nhóm Chuyển động] và lệnh [Hình ảnh: Lệnh di chuyển 10 bước] của nhóm này cùng có màu xanh.
+Tên của mỗi nhóm lệnh gợi ý công dụng của chúng. Ví dụ: nhóm lệnh **Chuyển động** gồm các lệnh điều khiển nhân vật di chuyển, nhóm lệnh **Hiển thị** chứa các lệnh thay đổi hình ảnh nhân vật, sân khấu và các thông báo sẽ xuất hiện trên màn hình.
+Bảng 4 dưới đây minh hoạ một số lệnh của các nhóm lệnh cơ bản được sử dụng trong chương trình *Điều khiển rô-bốt*.
+| Nhóm lệnh | Lệnh | Ý nghĩa |
+| :---: | :---: | :---: |
+| Sự kiện | [Hình ảnh: Lệnh khi bấm vào cờ xanh] | Khi nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng cờ xanh] thì chạy chương trình. |
+| Chuyển động | [Hình ảnh: Lệnh di chuyển 10 bước] | Nhân vật di chuyển 10 bước theo đường thẳng. |
+| Điều khiển | [Hình ảnh: Lệnh đợi 1 giây] | Nhân vật sẽ đợi 1 giây, sau đó thực hiện lệnh tiếp theo. |
+| Bút vẽ | [Hình ảnh: Lệnh xóa tất cả] | Xoá tất cả các hình vẽ đang có trên sân khấu. |
+| Bút vẽ | [Hình ảnh: Lệnh đặt bút] | Đặt bút để nhân vật bắt đầu vẽ. |
+| Bút vẽ | [Hình ảnh: Lệnh chọn màu bút] | Chọn màu cho bút vẽ. |
+| Bút vẽ | [Hình ảnh: Lệnh nhấc bút] | Nhấc bút để nhân vật dừng việc vẽ hình. |
+Để đưa lệnh vào chương trình cho một nhân vật, em thực hiện các thao tác như sau:
+[Hình ảnh 64: **Các thao tác để tạo chương trình.** Minh họa 4 bước: 1. Chọn nhân vật. 2. Chọn nhóm lệnh. 3. Chọn lệnh trong nhóm lệnh. 4. Kéo thả lệnh vào vùng tạo chương trình.]
+Các lệnh được ghép với nhau tạo thành **khối lệnh**. Ví dụ, Hình 65 là khối lệnh gồm 3 lệnh. Khi chạy chương trình, các lệnh trong khối lệnh được thực hiện lần lượt theo thứ tự từ trên xuống dưới.
+[Hình ảnh 65: **Khối lệnh.** Minh họa một khối lệnh gồm 3 lệnh được ghép nối theo chiều dọc.]
+Trong **Scratch** mỗi nhóm lệnh có nhiều lệnh và chúng cùng màu. Mỗi lệnh sẽ điều khiển nhân vật thực hiện một hành động.
+Em hãy ghép mỗi lệnh sau với nhóm lệnh thích hợp.
+| Nhóm lệnh | Lệnh |
+| :---: | :---: |
+| a) Hiển thị | 1) [Hình ảnh: Lệnh nói "Xin chào!"] |
+| b) Chuyển động | 2) [Hình ảnh: Lệnh quay 15 độ] |
+| c) Âm thanh | 3) [Hình ảnh: Lệnh phát âm thanh meow] |
+
+#### 2. THỰC HÀNH CÁC KHẢ NĂNG CƠ BẢN
+##### NHIỆM VỤ 1 Tạo chương trình *Điều khiển rô-bốt* như Hình 66.
+Hướng dẫn:
+*Bước 1:* Mở phần mềm **Scratch**.
+*Bước 2:* Nháy chuột vào nhóm lệnh **Sự kiện** [Hình ảnh: Biểu tượng nhóm Sự kiện], kéo thả lệnh [Hình ảnh: Lệnh khi bấm vào cờ xanh] vào vùng tạo chương trình.
+*Bước 3:* Nháy chuột vào biểu tượng [Hình ảnh: Biểu tượng các nhóm lệnh mở rộng (Hình vuông với dấu +)] để xuất hiện danh sách nhóm lệnh mở rộng. Trong danh sách này, em chọn nhóm lệnh **Bút vẽ** như minh hoạ của Hình 67.
+[Hình ảnh 67: **Danh sách nhóm lệnh mở rộng.** Màn hình hiển thị danh sách các nhóm lệnh bổ sung, bao gồm nhóm **Bút vẽ**.]
+Khi đó, nhóm lệnh [Hình ảnh: Biểu tượng nhóm Bút vẽ] sẽ được thêm vào khu vực nhóm lệnh.
+*Bước 4:* Nháy chuột vào nhóm lệnh [Hình ảnh: Biểu tượng nhóm Bút vẽ], kéo thả lệnh [Hình ảnh: Lệnh xóa tất cả] đặt nối tiếp sau lệnh ở Bước 2. Tiếp tục kéo thả lần lượt các lệnh [Hình ảnh: Lệnh đặt bút], [Hình ảnh: Lệnh chọn màu bút] đặt nối tiếp vào khối lệnh.
+*Bước 5:* Nháy chuột vào nhóm lệnh **Chuyển động** [Hình ảnh: Biểu tượng nhóm Chuyển động], kéo thả lệnh [Hình ảnh: Lệnh di chuyển 10 bước] đặt nối tiếp sau lệnh ở Bước 4. Thay đổi số bước di chuyển thành 100 bằng cách sau:
+[Hình ảnh 68: **Thay đổi số bước.** Minh họa lệnh "di chuyển 100 bước". Nút chỉ vào ô giá trị: Nháy chuột vào ô này và gõ 100.]
+*Bước 6:* Tương tự Bước 5, kéo thả lệnh [Hình ảnh: Lệnh quay 15 độ] vào chương trình và thay đổi góc quay thành 90 độ.
+*Bước 7:* Nháy chuột vào nhóm lệnh **Điều khiển** [Hình ảnh: Biểu tượng nhóm Điều khiển], kéo thả lệnh [Hình ảnh: Lệnh đợi 1 giây] đặt nối tiếp sau lệnh ở Bước 6.
+*Bước 8:* Lặp lại các bước 5, 6, 7 để tiếp tục đưa các lệnh vào vùng tạo chương trình.
+*Bước 9:* Nháy chuột vào nhóm lệnh [Hình ảnh: Biểu tượng nhóm Bút vẽ], kéo thả lệnh [Hình ảnh: Lệnh nhấc bút] đặt nối tiếp sau lệnh cuối cùng ở Bước 8.
+[Hình ảnh 66: **Chương trình "Điều khiển rô-bốt".** Khối lệnh lập trình bao gồm các lệnh xếp nối tiếp nhau: Khi bấm vào cờ xanh, Xóa tất cả, Đặt bút, Chọn màu bút, Di chuyển 100 bước, Quay trái 90 độ, Đợi 1 giây. Các lệnh Di chuyển 100 bước, Quay trái 90 độ, Đợi 1 giây được lặp lại 4 lần. Kết thúc bằng lệnh Nhấc bút.]
+*Lưu ý:* Nếu em muốn loại bỏ lệnh nào đó, em có thể kéo lệnh từ vùng tạo chương trình trả lại khu vực nhóm lệnh.
+
+##### NHIỆM VỤ 2 Chạy chương trình *Điều khiển rô-bốt*, lưu tệp và thoát khỏi phần mềm.
+Hướng dẫn
+*Bước 1:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng mở rộng toàn màn hình] ở góc trên bên phải để sân khấu mở rộng toàn màn hình. Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng cờ xanh] để chạy chương trình.
+*Bước 2:* Nhấn phím **ESC** để quay lại màn hình **Scratch**.
+*Bước 3:* Chọn lệnh **Lưu về máy tính** trong bảng chọn **Tệp tin**. Cửa sổ **Save as** hiện ra, em hãy chọn thư mục lưu trữ và đặt tên tệp là *Robot 2*.
+*Bước 4:* Để thoát khỏi chương trình **Scratch**, em nháy chuột vào nút [Hình ảnh: Nút X (Close)] ở góc trên bên phải của màn hình **Scratch**.
+
+CỦNG CỐ
+1. Chương trình nào dưới đây điều khiển nhân vật thực hiện lần lượt hành động sau:
+1. Di chuyển 60 bước.
+2. Quay phải 15 độ.
+A. **[Hình ảnh: Khối lệnh Di chuyển 60 bước và Quay phải 15 độ.]**
+B. [Hình ảnh: Khối lệnh Di chuyển 15 bước và Quay phải 60 độ.]
+C. [Hình ảnh: Khối lệnh Di chuyển 60 bước và Quay trái 15 độ.]
+D. [Hình ảnh: Khối lệnh Di chuyển 15 bước và Quay trái 60 độ.]
+2. Em hãy tạo chương trình trong **Scratch** để kiểm tra kết quả Câu 1.
+
+VẬN DỤNG
+1. Trong khi di chuyển hoặc quay, có thể nhân vật mèo sẽ lộn ngược. Lệnh [Hình ảnh: Lệnh đặt kiểu xoay trái-phải] giúp em khắc phục điều này. Em hãy mở chương trình *Điều khiển rô-bốt*, bổ sung lệnh này vào sau lệnh [Hình ảnh: Lệnh khi bấm vào cờ xanh] và chạy thử.
+2. Em hãy tạo một chương trình điều khiển nhân vật mèo vừa đi vừa vẽ hình tam giác, biết góc quay để vẽ tam giác là 120 độ. [Hình ảnh 69: **Mô phỏng đường đi của mèo.** Hình ảnh chú mèo đang đi, có đánh dấu góc 120 độ.]
+
+# BÀI 15
+#### TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG
+Sau bài này em sẽ:
+Q Nêu được ví dụ cụ thể về sử dụng chương trình máy tính để diễn tả ý tưởng, câu chuyện theo từng bước.
+Q Thực hiện được các thao tác thêm nhân vật, thay đổi phông nền sân khấu.
+##### KHỞI ĐỘNG
+Nhận thấy chú mèo di chuyển sống động trên màn hình khi làm chương trình *Điều khiển rô-bốt*, bạn An nghĩ ngay đến chú chó Lu đáng yêu ở nhà. Bạn An muốn tạo một chương trình *Chú chó đáng yêu* để mô tả hoạt động của chú chó Lu trong khu vườn. Vừa chạy chú chó Lu vừa phát ra tiếng sủa như đã tìm thấy gì đó. Chúng ta cùng bạn An tìm hiểu để tạo được chương trình đó nhé.
+
+#### HOẠT ĐỘNG Xác định công việc cần thực hiện
+Để tạo được chương trình *Chú chó đáng yêu* trong **Scratch** như bạn An mong muốn, em hãy xác định các công việc phải thực hiện.
+
+#### 1. XÂY DỰNG Ý TƯỞNG VÀ CÁC LỆNH TẠO CHƯƠNG TRÌNH SCRATCH
+Trong phần mềm **Scratch**, em là đạo diễn của câu chuyện hay trò chơi. Muốn tạo ra một chương trình hay, hấp dẫn thì ý tưởng câu chuyện rất quan trọng. Để có thể tạo được chương trình *Chú chó đáng yêu* theo ý tưởng của bạn An, chúng ta thực hiện các công việc như sau:
+1. Thay đổi nhân vật và sân khấu:
+- Nhân vật: Một chú chó.
+- Sân khấu: Một khu vườn.
+2. Tạo chương trình:
+- Sử dụng các lệnh điều khiển chú chó di chuyển đến vị trí ngẫu nhiên trong khu vườn.
+- Sử dụng lệnh điều khiển chú chó không chạy ra khỏi khu vườn.
+- Sử dụng lệnh điều khiển chú chó phát âm thanh tiếng chó sủa.
+a) Nhân vật và sân khấu
+Nhân vật thực hiện hành động trên sân khấu theo các câu lệnh mà em lập trình cho nó. Khi em khởi động phần mềm **Scratch**, nhân vật mặc định là chú mèo và phông nền sân khấu là màu trắng. Em có thể thêm bớt nhân vật, thay đổi phông nền sân khấu cho phù hợp với nội dung ý tưởng câu chuyện.
+b) Một số lệnh để tạo chương trình
+Bảng 5 là các lệnh sẽ được sử dụng cho nhân vật chú chó để tạo chương trình thực hiện từng bước ý tưởng của bạn An.
+| Thực hiện ý tưởng | Lệnh | Nhóm lệnh | Ý nghĩa |
+| :---: | :---: | :---: | :---: |
+| Chú chó chạy trong khu vườn. | [Hình ảnh: Lệnh đi tới vị trí ngẫu nhiên] | Chuyển động | Nhân vật di chuyển đến vị trí ngẫu nhiên trên sân khấu. |
+| Chú chó không chạy ra khỏi khu vườn. | [Hình ảnh: Lệnh nếu chạm cạnh thì bật lại] | Chuyển động | Nếu nhân vật chạm vào cạnh của sân khấu thì bật lại. Lệnh này giúp nhân vật không di chuyển ra ngoài sân khấu. |
+| Phát âm thanh tiếng chó sủa. | [Hình ảnh: Lệnh phát âm thanh "dog1" đến hết] | Âm thanh | Phát âm thanh "dog1". Mỗi nhân vật sẽ có âm thanh riêng của chúng. |
+Chương trình nào dưới đây thực hiện ý tưởng của bạn An?
+A. [Hình ảnh: Khối lệnh A] B. [Hình ảnh: Khối lệnh B] C. [Hình ảnh: Khối lệnh C] D. [Hình ảnh: Khối lệnh D]
+
+#### 2. THỰC HÀNH TẠO CHƯƠNG TRÌNH BẰNG Ý TƯỞNG CÁ NHÂN
+##### NHIỆM VỤ 1 Thay đổi nhân vật, sân khấu.
+Hướng dẫn
+a) Thay đổi nhân vật
+Để thay đổi nhân vật, trong **Vùng tạo nhân vật**, em thực hiện như sau:
+*Bước 1:* Nháy chuột vào biểu tượng [Hình ảnh: Biểu tượng thùng rác] để xoá nhân vật mèo.
+*Bước 2:* Nháy chuột vào nút lệnh nhân vật [Hình ảnh: Biểu tượng chọn nhân vật (Hình chú mèo với dấu +)] để mở thư viện nhân vật.
+[Hình ảnh 70: **Cửa sổ chọn một nhân vật.** Giao diện thư viện nhân vật của Scratch, hiển thị các nhân vật có thể chọn.]
+*Bước 3:* Chọn nhân vật trong thư viện.
+b) Thay đổi phông nền sân khấu
+*Bước 1:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng chọn phông nền (Hình bức tranh với dấu +)] trong **Vùng tạo sân khấu** để mở thư viện phông nền sân khấu.
+[Hình ảnh 71: **Cửa sổ chọn một phông nền.** Giao diện thư viện phông nền của Scratch, hiển thị các phông nền có thể chọn.]
+*Bước 2:* Chọn phông nền sân khấu.
+
+##### NHIỆM VỤ 2 Tạo chương trình *Chú chó đáng yêu* thực hiện ý tưởng của bạn An được minh hoạ trong Hình 72.
+[Hình ảnh 72: **Chương trình "Chú chó đáng yêu".** Khối lệnh lập trình cho chú chó: Khi bấm vào cờ xanh, liên tục (vòng lặp mãi mãi), đi tới vị trí ngẫu nhiên, nếu chạm cạnh thì bật lại, phát âm thanh "dog1" đến hết, đợi 1 giây.]
+Hướng dẫn:
+*Bước 1:* Em quan sát và kéo thả các lệnh để tạo chương trình cho chú chó.
+*Bước 2:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng cờ xanh] để chạy chương trình. Tiếp tục nháy chuột nhiều lần vào nút lệnh [Hình ảnh: Biểu tượng cờ xanh] để chú chó di chuyển liên tục trong khu vườn.
+*Bước 3:* Chọn lệnh **Lưu về máy tính** trong bảng chọn **Tệp tin**. Cửa sổ **Save as** hiện ra, em hãy chọn thư mục lưu trữ và đặt tên tệp là *ChuCho*.
+
+CỦNG CỐ
+1. Em hãy trình bày cách xoá nhân vật, cách thêm nhân vật.
+2. Ý tưởng của bạn Minh là tạo chương trình *Bể cá cảnh*, trong đó có một chú cá bơi tung tăng, nếu chạm phải cạnh bể thì chú cá phải quay trở lại. Chương trình nào sau đây diễn tả ý tưởng của bạn Minh?
+A. [Hình ảnh: Khối lệnh A] B. [Hình ảnh: Khối lệnh B] C. [Hình ảnh: Khối lệnh C]
+3. Em hãy tạo chương trình **Scratch** để thực hiện ý tưởng của bạn Minh ở Câu 2.
+
+VẬN DỤNG
+Em hãy nâng cấp chương trình *Chú chó đáng yêu* và *Bể cá cảnh* để nhân vật va vào cạnh sân khấu khi bật ngược lại không bị lộn ngược đầu.
+
+# BÀI 16
+#### CHƯƠNG TRÌNH CỦA EM
+Sau bài này em sẽ: Q Tạo được chương trình đơn giản.
+##### KHỞI ĐỘNG
+[Hình ảnh 73: **Bể cá cảnh.** Hình ảnh phông nền sân khấu là bể cá cảnh (Under water).]
+Bạn Minh muốn nâng cấp chương trình *Chú chó đáng yêu* của bạn An như sau: Thêm một chú bướm trên sân khấu, chú chó sẽ đuổi theo chú bướm, mỗi lần đuổi kịp chú bướm thì chú chó kêu lên một tiếng.
+Lúc này, công việc của Minh là thêm nhân vật chú bướm và lập trình cho chú bướm chuyển động ngẫu nhiên trên màn hình. Điều chỉnh lại lệnh của nhân vật chú chó sao cho chú chó đuổi theo chú bướm. Chúng ta sẽ tạo chương trình cùng Minh nhé.
+
+##### NHIỆM VỤ Mở tệp *ChuCho* đã lưu ở bài thực hành trước. Thêm nhân vật chú bướm vào chương trình và lập trình cho chú bướm. Điều chỉnh lệnh của các nhân vật. Lưu lại tệp với tên *DuoiBat*.
+Hướng dẫn
+*Bước 1:* Chọn lệnh **Mở từ máy tính** trong bảng chọn **Tệp tin**. Mở tệp chương trình *Chú chó đáng yêu* có tên là *ChuCho* đã lưu trên máy tính ở Bài 15.
+*Bước 2:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng chọn nhân vật (Hình chú mèo với dấu +)] để thêm nhân vật chú bướm.
+[Hình ảnh 74: **Thêm nhân vật.** Minh họa việc chọn nhân vật từ thư viện nhân vật.]
+Chọn nhân vật chú bướm trong thư viện.
+*Bước 3:* Tạo chương trình cho chú bướm như minh hoạ trong Hình 75.
+[Hình ảnh 75: **Tạo chương trình cho chú bướm.** Khối lệnh lập trình cho chú bướm: Khi bấm vào cờ xanh, liên tục (vòng lặp mãi mãi), lướt trong 1 giây tới vị trí ngẫu nhiên.]
+*Lưu ý:* Lệnh [Hình ảnh: Lệnh lướt trong 1 giây tới vị trí ngẫu nhiên] sẽ giúp chú bướm bay trong 1 giây rồi dừng lại tại vị trí ngẫu nhiên.
+*Bước 4:* Chọn nhân vật chú chó và chỉnh sửa chương trình cho chú chó như minh hoạ trong Hình 76.
+[Hình ảnh 76: **Chương trình của chú chó.** Khối lệnh lập trình cho chú chó: Khi bấm vào cờ xanh, liên tục (vòng lặp mãi mãi), đi tới (hướng tới) *Tên nhân vật Bướm*, nếu đang chạm vào *Tên nhân vật Bướm* thì: phát âm thanh "dog1" đến hết.]
+*Lưu ý:* Lệnh [Hình ảnh: Lệnh đi tới (hướng tới) *Tên nhân vật Bướm*] sẽ làm chú chó đuổi theo chú bướm.
+*Bước 5:* Nháy chuột vào nút lệnh [Hình ảnh: Biểu tượng cờ xanh] để chạy chương trình nhiều lần và xem kết quả.
+*Bước 6:* Chọn lệnh **Lưu về máy tính** trong bảng chọn **Tệp tin**. Cửa sổ **Save as** hiện ra, em hãy chọn thư mục lưu trữ và đặt tên tệp là *DuoiBat*.
+
+CỦNG CỐ
+1. Em hãy mở chương trình *Bể cá cảnh* đã làm ở phần luyện tập Bài 15, rồi thực hiện các nhiệm vụ sau:
+a) Thêm nhiều nhân vật cá khác nhau và tạo chương trình giống nhân vật cá ban đầu.
+b) Chạy chương trình và quan sát kết quả.
+2. Em hãy mở chương trình *Điều khiển rô-bốt* đã lưu ở Bài 14, rồi thực hiện các nhiệm vụ sau:
+a) Thêm nhân vật bọ dừa và tạo chương trình cho bọ dừa vẽ hình chữ nhật.
+b) Xoá nhân vật mèo.
+c) Chạy chương trình và quan sát kết quả.
+
+VẬN DỤNG
+Tạo chương trình mới cho nhân vật bọ cánh cứng vừa di chuyển vừa vẽ đường như Hình 77 dưới đây.
+[Hình ảnh 77: **Hình vẽ của bọ cánh cứng.** Hình ảnh mô tả một đường đi zíc zắc (gấp khúc) do bọ cánh cứng vẽ ra, với các đoạn thẳng bằng nhau và góc quay/gập.]
+*Lưu ý:* Mỗi đoạn thẳng tương ứng với 60 bước.
+
+##### BẢNG GIẢI THÍCH THUẬT NGỮ
+| Thuật ngữ | Giải thích | Trang |
+| :---: | :---: | :---: |
+| Đa phương tiện | Video, bài trình chiếu,... trên máy tính có sử dụng nhiều dạng thông tin. | 52 |
+| Hiệu ứng chuyển trang | Cách trang chiếu xuất hiện khi trình chiếu. | 39 |
+| Lập trình | Sử dụng một ngôn ngữ lập trình để tạo các chương trình. | 59 |
+| Máy tìm kiếm | Công cụ giúp tìm kiếm thông tin trên Internet. | 18 |
+| Phông chữ | Hình thức thể hiện của kí tự. | 34 |
+| Từ khoá | Từ hoặc cụm từ mô tả nội dung thông tin cần tìm kiếm. | 18 |
+| Virus máy tính | Một loại phần mềm độc hại, có khả năng lây lan và phá hoại máy tính. | 8 |
+
+Chịu trách nhiệm xuất bản: Tổng Giám đốc **HOÀNG LÊ BÁCH**.
+Chịu trách nhiệm nội dung: Tổng biên tập **PHẠM VĨNH THÁI**.
+Biên tập nội dung: **NGUYỄN THỊ NGUYÊN THÙY - PHẠM THỊ THANH NAM**.
+Biên tập mĩ thuật: **NGUYỄN BÁCH LA**.
+Thiết kế sách: **NGUYỄN THÙY QUỲNH**.
+Trình bày bìa: **NGUYỄN BÁCH LA**.
+Minh họa: **NGUYỄN THỊ HUỆ - NGUYỄN THỊ PHI**.
+Sửa bản in: **VŨ THỊ THANH TÂM - PHẠM THỊ TỐNH**.
+Chế bản: **CÔNG TY CỔ PHẦN PHẦN MỀM VÀ TRUYỀN THÔNG**.
+**TIN HỌC 4**
+Mã số: **G1HH4.001H123**
+In... bản, (QĐ 01) khổ 19 x 26,5 cm.
+Đơn vị in: ...
+Địa chỉ: ...
+Số ĐKXB: **8-2023/CXBIPH/85-2097/GD**
+Số QĐXB: .../QĐ-GD-HN ngày... tháng... năm 2022.
+In xong và nộp lưu chiểu tháng... năm 2022.
+Mã số ISBN: **978-604-0-35029-**
+Bản quyền © (2022) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất cứ hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+Nhà xuất bản Giáo dục Việt Nam xin trân trọng cảm ơn các tác giả có tác phẩm, tư liệu được sử dụng, trích dẫn trong cuốn sách này.
+Giá: ........... đ
+Kích hoạt để mở học liệu điện tử: Cào lớp nhũ trên tem để nhận mã số. Truy cập http://hanhtrangso.nxbgd.vn và nhập mã số tại biểu tượng chìa khoá.
+Các đơn vị đầu mối phát hành
+x Miền Bắc: CTCP Đầu tư và Phát triển Giáo dục Hà Nội, CTCP Sách và Thiết bị Giáo dục miền Bắc
+x Miền Trung: CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng, CTCP Sách và Thiết bị Giáo dục miền Trung
+x Miền Nam: CTCP Đầu tư và Phát triển Giáo dục Phương Nam, CTCP Sách và Thiết bị Giáo dục miền Nam, CTCP Sách và Thiết bị Giáo dục Cửu Long
+Sách điện tử: http://hanhtrangso.nxbgd.vn
+
+##### BỘ SÁCH GIÁO KHOA LỚP 4 – KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+1. Tiếng Việt 4, tập một
+2. Tiếng Việt 4, tập hai
+3. Toán 4, tập một
+4. Toán 4, tập hai
+5. Khoa học 4
+6. Đạo đức 4
+7. Âm nhạc 4
+8. Mĩ thuật 4
+9. Công nghệ 4
+10. Lịch sử và Địa lí 4
+11. Tin học 4
+12. Hoạt động trải nghiệm 4
+13. Giáo dục thể chất 4
+14. Tiếng Anh 4 – Global Success – SHS, tập một
+15. Tiếng Anh 4 – Global Success – SHS, tập hai
+HUÂN CHƯƠNG HỒ CHÍ MINH
+TẬP MỘT SÁCH HỌC SINH
+**TIẾNG ANH 4 - GLOBAL SUCCESS - SHS, TẬP MỘT**
+**HOÀNG VĂN VÂN** (Tổng Chủ biên) - **NGUYỄN QUỐC TUẤN** (Chủ biên) **PHAN HÀ - ĐỖ THỊ NGỌC HIỀN - ĐÀO NGỌC LỰC** **TRẦN HOÀNG QUYNH - NGUYỄN MINH TUẤN**
+**TIN HỌC 4**
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) HOÀNG THỊ MAI (Chủ biên) PHAN ANH – NGUYỄN THU HIỀN NGUYỄN BÁ TUẤN – HÀ ĐẶNG CAO TÙNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**HOẠT ĐỘNG TRẢI NGHIỆM 4**
+LƯU THU THỦY (Tổng Chủ biên) NGUYỄN THỤY ANH (Chủ biên) NGUYỄN THỊ THANH BÌNH – BÙI THỊ HƯƠNG LIÊN – TRẦN THỊ TỐ OANH
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**GIÁO DỤC THỂ CHẤT 4**
+NGUYỄN DUY QUYẾT (Tổng Chủ biên) NGUYỄN HỒNG DƯƠNG (Chủ biên) ĐỖ MẠNH HƯNG – VŨ VĂN THỊNH – VŨ THỊ HỒNG THU VŨ THỊ THƯ – PHẠM MAI VƯƠNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+TẬP HAI SÁCH HỌC SINH
+**TIẾNG ANH 4 - GLOBAL SUCCESS - SHS, TẬP HAI**
+**HOÀNG VĂN VÂN** (Tổng Chủ biên) - **NGUYỄN QUỐC TUẤN** (Chủ biên) **PHAN HÀ - ĐỖ THỊ NGỌC HIỀN - ĐÀO NGỌC LỰC** **TRẦN HOÀNG QUỲNH - NGUYỄN MINH TUẤN**
+Tháng 5 - 2022
+**ĐẠO ĐỨC 4**
+NGUYỄN THỊ TOAN (Tổng Chủ biên) TRẦN THÀNH NAM (Chủ biên) NGUYỄN THỊ HOÀNG ANH – NGUYỄN NGỌC DUNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**ÂM NHẠC 4**
+ĐỖ THỊ MINH CHÍNH (Tổng Chủ biên) NGUYỄN THỊ THANH BÌNH (Chủ biên) MAI LINH CHI – NGUYỄN THỊ PHƯƠNG MAI – NGUYỄN THỊ NGA
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**MĨ THUẬT 4**
+ĐINH GIA LÊ (Tổng Chủ biên) TRẦN THỊ BIỂN – ĐOÀN THỊ MỸ HƯƠNG (đồng Chủ biên) PHẠM DUY ANH – TRẦN THỊ THU TRANG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**LỊCH SỬ VÀ ĐỊA LÍ 4**
+VŨ MINH GIANG (Tổng Chủ biên xuyên suốt phần Lịch sử) NGHIÊM ĐÌNH VỲ (Tổng Chủ biên cấp Tiểu học phần Lịch sử) NGUYỄN THỊ THU THỦY (Chủ biên phần Lịch sử) ĐÀO THỊ HỒNG – LÊ THỊ THU HƯƠNG
+ĐÀO NGỌC HÙNG (Tổng Chủ biên phần Địa lí) TRẦN THỊ HÀ GIANG (Chủ biên phần Địa lí) ĐẶNG TIÊN DUNG – BÙI THỊ THANH PHƯƠNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**CÔNG NGHỆ 4**
+LÊ HUY HOÀNG (Tổng Chủ biên) ĐẶNG VĂN NGHĨA (Chủ biên) ĐỒNG HUY GIỚI – DƯƠNG GIÁNG THIÊN HƯƠNG BÙI THỊ THU HƯƠNG – NGUYỄN BÍCH THẢO
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**TIẾNG VIỆT 4, TẬP MỘT**
+BÙI MẠNH HÙNG (Tổng Chủ biên) TRẦN THỊ HIỀN LƯƠNG (Chủ biên) LÊ THỊ LAN ANH – ĐỖ HỒNG DƯƠNG NGUYỄN LÊ HẰNG – TRỊNH CẨM LAN
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**TIẾNG VIỆT 4, TẬP HAI**
+BÙI MẠNH HÙNG (Tổng Chủ biên) TRẦN THỊ HIỀN LƯƠNG (Chủ biên) VŨ THỊ THANH HƯƠNG – VŨ THỊ LAN TRẦN KIM PHƯỢNG – ĐẶNG THỊ HẢO TÂM
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**TOÁN 4, TẬP MỘT**
+HÀ HUY KHOÁI (Tổng Chủ biên) LÊ ANH VINH (Chủ biên) NGUYỄN ÁNG – VŨ VĂN DƯƠNG – NGUYỄN MINH HẢI HOÀNG QUẾ HƯỜNG – BÙI BÁ MẠNH
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**KHOA HỌC 4**
+VŨ VĂN HÙNG (Tổng Chủ biên kiêm Chủ biên) PHAN THANH HÀ (đồng Chủ biên) NGUYỄN THỊ THANH CHI – NGÔ DIỆU NGA ĐÀO THỊ SEN – TRIỆU ANH TRUNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+**TOÁN 4, TẬP HAI**
+HÀ HUY KHOÁI (Tổng Chủ biên) LÊ ANH VINH (Chủ biên) NGUYỄN ÁNG – VŨ VĂN DƯƠNG – NGUYỄN MINH HẢI HOÀNG QUẾ HƯỜNG – BÙI BÁ MẠNH
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+Bản in thử SÁCH KHÔNG BÁN
